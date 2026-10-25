@@ -1,0 +1,7 @@
+.git
+reports/
+sboms/
+k8s/
+*.md
+cosign.*
+Dockerfile*
