@@ -1,0 +1,1119 @@
+NAME                       INSTALLED                          FIXED IN         TYPE  VULNERABILITY     SEVERITY    EPSS          RISK   
+libgnutls30t64             3.8.9-3+deb13u4                                     deb   CVE-2011-3389     Negligible  73.3% (99th)  3.7    
+openssh-client             1:10.0p1-7+deb13u4                                  deb   CVE-2019-6110     Negligible  24.9% (97th)  1.2    
+curl                       8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-19931    Critical    0.7% (54th)   0.7    
+libcurl3t64-gnutls         8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-19931    Critical    0.7% (54th)   0.7    
+libcurl4t64                8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-19931    Critical    0.7% (54th)   0.7    
+openssh-client             1:10.0p1-7+deb13u4                                  deb   CVE-2020-15778    Negligible  13.7% (96th)  0.7    
+curl                       8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-11856    Critical    0.7% (52nd)   0.6    
+libcurl3t64-gnutls         8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-11856    Critical    0.7% (52nd)   0.6    
+libcurl4t64                8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-11856    Critical    0.7% (52nd)   0.6    
+wget                       1.25.0-2                           (won't fix)      deb   CVE-2021-31879    Medium      1.1% (65th)   0.6    
+curl                       8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-10536    Critical    0.6% (47th)   0.6    
+libcurl3t64-gnutls         8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-10536    Critical    0.6% (47th)   0.6    
+libcurl4t64                8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-10536    Critical    0.6% (47th)   0.6    
+curl                       8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-9079     Critical    0.6% (47th)   0.5    
+libcurl3t64-gnutls         8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-9079     Critical    0.6% (47th)   0.5    
+libcurl4t64                8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-9079     Critical    0.6% (47th)   0.5    
+curl                       8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-18924    Critical    0.6% (47th)   0.5    
+libcurl3t64-gnutls         8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-18924    Critical    0.6% (47th)   0.5    
+libcurl4t64                8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-18924    Critical    0.6% (47th)   0.5    
+libpython3.13-minimal      3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-7210     High        0.7% (51st)   0.5    
+libpython3.13-stdlib       3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-7210     High        0.7% (51st)   0.5    
+python3.13                 3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-7210     High        0.7% (51st)   0.5    
+python3.13-minimal         3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-7210     High        0.7% (51st)   0.5    
+libpython3.13-minimal      3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-15308    High        0.6% (49th)   0.5    
+libpython3.13-stdlib       3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-15308    High        0.6% (49th)   0.5    
+python3.13                 3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-15308    High        0.6% (49th)   0.5    
+python3.13-minimal         3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-15308    High        0.6% (49th)   0.5    
+libperl5.40                5.40.1-6+deb13u1                   (won't fix)      deb   CVE-2026-82560    High        0.6% (49th)   0.5    
+perl                       5.40.1-6+deb13u1                   (won't fix)      deb   CVE-2026-82560    High        0.6% (49th)   0.5    
+perl-base                  5.40.1-6+deb13u1                   (won't fix)      deb   CVE-2026-82560    High        0.6% (49th)   0.5    
+perl-modules-5.40          5.40.1-6+deb13u1                   (won't fix)      deb   CVE-2026-82560    High        0.6% (49th)   0.5    
+openssh-client             1:10.0p1-7+deb13u4                 (won't fix)      deb   CVE-2026-60000    High        0.6% (49th)   0.5    
+openssh-client             1:10.0p1-7+deb13u4                                  deb   CVE-2007-2768     Negligible  8.6% (95th)   0.4    
+curl                       8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-80229    High        0.6% (46th)   0.4    
+libcurl3t64-gnutls         8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-80229    High        0.6% (46th)   0.4    
+libcurl4t64                8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-80229    High        0.6% (46th)   0.4    
+libpython3.13-minimal      3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-17084    Medium      0.7% (53rd)   0.4    
+libpython3.13-stdlib       3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-17084    Medium      0.7% (53rd)   0.4    
+python3.13                 3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-17084    Medium      0.7% (53rd)   0.4    
+python3.13-minimal         3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-17084    Medium      0.7% (53rd)   0.4    
+curl                       8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-8926     Critical    0.4% (37th)   0.4    
+libcurl3t64-gnutls         8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-8926     Critical    0.4% (37th)   0.4    
+libcurl4t64                8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-8926     Critical    0.4% (37th)   0.4    
+wget                       1.25.0-2                           (won't fix)      deb   CVE-2026-58469    High        0.5% (41st)   0.4    
+libpython3.13-minimal      3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-19445    Critical    0.4% (36th)   0.4    
+libpython3.13-stdlib       3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-19445    Critical    0.4% (36th)   0.4    
+python3.13                 3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-19445    Critical    0.4% (36th)   0.4    
+python3.13-minimal         3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-19445    Critical    0.4% (36th)   0.4    
+libexpat1                  2.9.0-1~deb13u1                    (won't fix)      deb   CVE-2026-113351   High        0.5% (40th)   0.4    
+curl                       8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-9080     High        0.5% (41st)   0.4    
+libcurl3t64-gnutls         8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-9080     High        0.5% (41st)   0.4    
+libcurl4t64                8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-9080     High        0.5% (41st)   0.4    
+curl                       8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-80255    High        0.5% (40th)   0.4    
+libcurl3t64-gnutls         8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-80255    High        0.5% (40th)   0.4    
+libcurl4t64                8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-80255    High        0.5% (40th)   0.4    
+curl                       8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-13608    High        0.5% (40th)   0.4    
+libcurl3t64-gnutls         8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-13608    High        0.5% (40th)   0.4    
+libcurl4t64                8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-13608    High        0.5% (40th)   0.4    
+libncursesw6               6.5+20250216-2                     (won't fix)      deb   CVE-2025-69720    High        0.5% (39th)   0.4    
+libtinfo6                  6.5+20250216-2                     (won't fix)      deb   CVE-2025-69720    High        0.5% (39th)   0.4    
+ncurses-base               6.5+20250216-2                     (won't fix)      deb   CVE-2025-69720    High        0.5% (39th)   0.4    
+ncurses-bin                6.5+20250216-2                     (won't fix)      deb   CVE-2025-69720    High        0.5% (39th)   0.4    
+libldap2                   2.6.10+dfsg-1                                       deb   CVE-2017-17740    Negligible  7.0% (94th)   0.4    
+libperl5.40                5.40.1-6+deb13u1                   (won't fix)      deb   CVE-2026-9538     High        0.4% (38th)   0.3    
+perl                       5.40.1-6+deb13u1                   (won't fix)      deb   CVE-2026-9538     High        0.4% (38th)   0.3    
+perl-base                  5.40.1-6+deb13u1                   (won't fix)      deb   CVE-2026-9538     High        0.4% (38th)   0.3    
+perl-modules-5.40          5.40.1-6+deb13u1                   (won't fix)      deb   CVE-2026-9538     High        0.4% (38th)   0.3    
+dirmngr                    2.4.7-21+deb13u1+b5                (won't fix)      deb   CVE-2026-24882    High        0.4% (37th)   0.3    
+gnupg                      2.4.7-21+deb13u1                   (won't fix)      deb   CVE-2026-24882    High        0.4% (37th)   0.3    
+gnupg-l10n                 2.4.7-21+deb13u1                   (won't fix)      deb   CVE-2026-24882    High        0.4% (37th)   0.3    
+gpg                        2.4.7-21+deb13u1+b5                (won't fix)      deb   CVE-2026-24882    High        0.4% (37th)   0.3    
+gpg-agent                  2.4.7-21+deb13u1+b5                (won't fix)      deb   CVE-2026-24882    High        0.4% (37th)   0.3    
+gpgconf                    2.4.7-21+deb13u1+b5                (won't fix)      deb   CVE-2026-24882    High        0.4% (37th)   0.3    
+gpgsm                      2.4.7-21+deb13u1+b5                (won't fix)      deb   CVE-2026-24882    High        0.4% (37th)   0.3    
+libgssapi-krb5-2           1.21.3-5+deb13u1                   (won't fix)      deb   CVE-2026-107708   Medium      0.5% (43rd)   0.3    
+libk5crypto3               1.21.3-5+deb13u1                   (won't fix)      deb   CVE-2026-107708   Medium      0.5% (43rd)   0.3    
+libkrb5-3                  1.21.3-5+deb13u1                   (won't fix)      deb   CVE-2026-107708   Medium      0.5% (43rd)   0.3    
+libkrb5support0            1.21.3-5+deb13u1                   (won't fix)      deb   CVE-2026-107708   Medium      0.5% (43rd)   0.3    
+libgssapi-krb5-2           1.21.3-5+deb13u1                   (won't fix)      deb   CVE-2026-107778   High        0.4% (35th)   0.3    
+libk5crypto3               1.21.3-5+deb13u1                   (won't fix)      deb   CVE-2026-107778   High        0.4% (35th)   0.3    
+libkrb5-3                  1.21.3-5+deb13u1                   (won't fix)      deb   CVE-2026-107778   High        0.4% (35th)   0.3    
+libkrb5support0            1.21.3-5+deb13u1                   (won't fix)      deb   CVE-2026-107778   High        0.4% (35th)   0.3    
+curl                       8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-9545     High        0.4% (33rd)   0.3    
+libcurl3t64-gnutls         8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-9545     High        0.4% (33rd)   0.3    
+libcurl4t64                8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-9545     High        0.4% (33rd)   0.3    
+libpython3.13-minimal      3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-19553    High        0.4% (33rd)   0.3    
+libpython3.13-stdlib       3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-19553    High        0.4% (33rd)   0.3    
+python3.13                 3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-19553    High        0.4% (33rd)   0.3    
+python3.13-minimal         3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-19553    High        0.4% (33rd)   0.3    
+curl                       8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-12064    High        0.4% (33rd)   0.3    
+libcurl3t64-gnutls         8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-12064    High        0.4% (33rd)   0.3    
+libcurl4t64                8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-12064    High        0.4% (33rd)   0.3    
+libpam-modules             1.7.0-5                            (won't fix)      deb   CVE-2026-54411    Medium      0.5% (41st)   0.3    
+libpam-modules-bin         1.7.0-5                            (won't fix)      deb   CVE-2026-54411    Medium      0.5% (41st)   0.3    
+libpam-runtime             1.7.0-5                            (won't fix)      deb   CVE-2026-54411    Medium      0.5% (41st)   0.3    
+libpam0g                   1.7.0-5                            (won't fix)      deb   CVE-2026-54411    Medium      0.5% (41st)   0.3    
+curl                       8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-8932     High        0.4% (32nd)   0.3    
+libcurl3t64-gnutls         8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-8932     High        0.4% (32nd)   0.3    
+libcurl4t64                8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-8932     High        0.4% (32nd)   0.3    
+curl                       8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-82209    High        0.4% (30th)   0.3    
+libcurl3t64-gnutls         8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-82209    High        0.4% (30th)   0.3    
+libcurl4t64                8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-82209    High        0.4% (30th)   0.3    
+libc-bin                   2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-5435     High        0.4% (32nd)   0.3    
+libc-dev-bin               2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-5435     High        0.4% (32nd)   0.3    
+libc6                      2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-5435     High        0.4% (32nd)   0.3    
+libc6-dev                  2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-5435     High        0.4% (32nd)   0.3    
+libpython3.13-minimal      3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-15806    Medium      0.5% (43rd)   0.3    
+libpython3.13-stdlib       3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-15806    Medium      0.5% (43rd)   0.3    
+python3.13                 3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-15806    Medium      0.5% (43rd)   0.3    
+python3.13-minimal         3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-15806    Medium      0.5% (43rd)   0.3    
+libc-bin                   2.41-12+deb13u4                                     deb   CVE-2018-20796    Negligible  5.8% (93rd)   0.3    
+libc-dev-bin               2.41-12+deb13u4                                     deb   CVE-2018-20796    Negligible  5.8% (93rd)   0.3    
+libc6                      2.41-12+deb13u4                                     deb   CVE-2018-20796    Negligible  5.8% (93rd)   0.3    
+libc6-dev                  2.41-12+deb13u4                                     deb   CVE-2018-20796    Negligible  5.8% (93rd)   0.3    
+libpython3.13-minimal      3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2025-12781    Medium      0.6% (45th)   0.3    
+libpython3.13-stdlib       3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2025-12781    Medium      0.6% (45th)   0.3    
+python3.13                 3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2025-12781    Medium      0.6% (45th)   0.3    
+python3.13-minimal         3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2025-12781    Medium      0.6% (45th)   0.3    
+openssh-client             1:10.0p1-7+deb13u4                                  deb   CVE-2008-3234     Negligible  5.8% (93rd)   0.3    
+wget                       1.25.0-2                           (won't fix)      deb   CVE-2026-58471    High        0.4% (31st)   0.3    
+wget                       1.25.0-2                           (won't fix)      deb   CVE-2026-58472    High        0.4% (31st)   0.3    
+libexpat1                  2.9.0-1~deb13u1                    (won't fix)      deb   CVE-2026-115506   High        0.4% (27th)   0.3    
+zlib1g                     1:1.3.dfsg+really1.3.1-1+b1                         deb   CVE-2026-85091    High        0.4% (28th)   0.3    
+curl                       8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-80230    High        0.4% (29th)   0.3    
+libcurl3t64-gnutls         8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-80230    High        0.4% (29th)   0.3    
+libcurl4t64                8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-80230    High        0.4% (29th)   0.3    
+openssh-client             1:10.0p1-7+deb13u4                 (won't fix)      deb   CVE-2026-60002    Critical    0.3% (21st)   0.3    
+cpp-14                     14.2.0-19                          (won't fix)      deb   CVE-2026-95619    High        0.4% (29th)   0.3    
+cpp-14-x86-64-linux-gnu    14.2.0-19                          (won't fix)      deb   CVE-2026-95619    High        0.4% (29th)   0.3    
+g++-14                     14.2.0-19                          (won't fix)      deb   CVE-2026-95619    High        0.4% (29th)   0.3    
+g++-14-x86-64-linux-gnu    14.2.0-19                          (won't fix)      deb   CVE-2026-95619    High        0.4% (29th)   0.3    
+gcc-14                     14.2.0-19                          (won't fix)      deb   CVE-2026-95619    High        0.4% (29th)   0.3    
+gcc-14-base                14.2.0-19                          (won't fix)      deb   CVE-2026-95619    High        0.4% (29th)   0.3    
+gcc-14-x86-64-linux-gnu    14.2.0-19                          (won't fix)      deb   CVE-2026-95619    High        0.4% (29th)   0.3    
+libasan8                   14.2.0-19                          (won't fix)      deb   CVE-2026-95619    High        0.4% (29th)   0.3    
+libatomic1                 14.2.0-19                          (won't fix)      deb   CVE-2026-95619    High        0.4% (29th)   0.3    
+libcc1-0                   14.2.0-19                          (won't fix)      deb   CVE-2026-95619    High        0.4% (29th)   0.3    
+libgcc-14-dev              14.2.0-19                          (won't fix)      deb   CVE-2026-95619    High        0.4% (29th)   0.3    
+libgcc-s1                  14.2.0-19                          (won't fix)      deb   CVE-2026-95619    High        0.4% (29th)   0.3    
+libgomp1                   14.2.0-19                          (won't fix)      deb   CVE-2026-95619    High        0.4% (29th)   0.3    
+libhwasan0                 14.2.0-19                          (won't fix)      deb   CVE-2026-95619    High        0.4% (29th)   0.3    
+libitm1                    14.2.0-19                          (won't fix)      deb   CVE-2026-95619    High        0.4% (29th)   0.3    
+liblsan0                   14.2.0-19                          (won't fix)      deb   CVE-2026-95619    High        0.4% (29th)   0.3    
+libquadmath0               14.2.0-19                          (won't fix)      deb   CVE-2026-95619    High        0.4% (29th)   0.3    
+libstdc++-14-dev           14.2.0-19                          (won't fix)      deb   CVE-2026-95619    High        0.4% (29th)   0.3    
+libstdc++6                 14.2.0-19                          (won't fix)      deb   CVE-2026-95619    High        0.4% (29th)   0.3    
+libtsan2                   14.2.0-19                          (won't fix)      deb   CVE-2026-95619    High        0.4% (29th)   0.3    
+libubsan1                  14.2.0-19                          (won't fix)      deb   CVE-2026-95619    High        0.4% (29th)   0.3    
+libpython3.13-minimal      3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-87910    Medium      0.5% (42nd)   0.3    
+libpython3.13-stdlib       3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-87910    Medium      0.5% (42nd)   0.3    
+python3.13                 3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-87910    Medium      0.5% (42nd)   0.3    
+python3.13-minimal         3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-87910    Medium      0.5% (42nd)   0.3    
+openssh-client             1:10.0p1-7+deb13u4                                  deb   CVE-2016-20012    Negligible  5.3% (92nd)   0.3    
+libldap2                   2.6.10+dfsg-1                                       deb   CVE-2015-3276     Negligible  5.3% (92nd)   0.3    
+libc-bin                   2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-6238     Medium      0.4% (37th)   0.3    
+libc-dev-bin               2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-6238     Medium      0.4% (37th)   0.3    
+libc6                      2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-6238     Medium      0.4% (37th)   0.3    
+libc6-dev                  2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-6238     Medium      0.4% (37th)   0.3    
+libpython3.13-minimal      3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2025-15366    Medium      0.4% (36th)   0.2    
+libpython3.13-stdlib       3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2025-15366    Medium      0.4% (36th)   0.2    
+python3.13                 3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2025-15366    Medium      0.4% (36th)   0.2    
+python3.13-minimal         3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2025-15366    Medium      0.4% (36th)   0.2    
+libc-bin                   2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-19499    High        0.3% (21st)   0.2    
+libc-dev-bin               2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-19499    High        0.3% (21st)   0.2    
+libc6                      2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-19499    High        0.3% (21st)   0.2    
+libc6-dev                  2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-19499    High        0.3% (21st)   0.2    
+bsdutils                   1:2.41.5-0+deb13u1                 (won't fix)      deb   CVE-2026-3184     Medium      0.4% (36th)   0.2    
+libblkid1                  2.41.5-0+deb13u1                   (won't fix)      deb   CVE-2026-3184     Medium      0.4% (36th)   0.2    
+liblastlog2-2              2.41.5-0+deb13u1                   (won't fix)      deb   CVE-2026-3184     Medium      0.4% (36th)   0.2    
+libmount1                  2.41.5-0+deb13u1                   (won't fix)      deb   CVE-2026-3184     Medium      0.4% (36th)   0.2    
+libsmartcols1              2.41.5-0+deb13u1                   (won't fix)      deb   CVE-2026-3184     Medium      0.4% (36th)   0.2    
+libuuid1                   2.41.5-0+deb13u1                   (won't fix)      deb   CVE-2026-3184     Medium      0.4% (36th)   0.2    
+login                      1:4.16.0-2+really2.41.5-0+deb13u1  (won't fix)      deb   CVE-2026-3184     Medium      0.4% (36th)   0.2    
+mount                      2.41.5-0+deb13u1                   (won't fix)      deb   CVE-2026-3184     Medium      0.4% (36th)   0.2    
+util-linux                 2.41.5-0+deb13u1                   (won't fix)      deb   CVE-2026-3184     Medium      0.4% (36th)   0.2    
+openssh-client             1:10.0p1-7+deb13u4                 (won't fix)      deb   CVE-2026-55654    Low         0.7% (50th)   0.2    
+curl                       8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-8458     Medium      0.4% (29th)   0.2    
+libcurl3t64-gnutls         8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-8458     Medium      0.4% (29th)   0.2    
+libcurl4t64                8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-8458     Medium      0.4% (29th)   0.2    
+tar                        1.35+dfsg-3.1                      (won't fix)      deb   CVE-2026-5704     Medium      0.4% (33rd)   0.2    
+libsasl2-2                 2.1.28+dfsg1-9                     (won't fix)      deb   CVE-2026-107161   High        0.3% (19th)   0.2    
+libsasl2-modules-db        2.1.28+dfsg1-9                     (won't fix)      deb   CVE-2026-107161   High        0.3% (19th)   0.2    
+openssh-client             1:10.0p1-7+deb13u4                 (won't fix)      deb   CVE-2026-106552   Medium      0.4% (28th)   0.2    
+libpython3.13-minimal      3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2025-15367    Medium      0.4% (30th)   0.2    
+libpython3.13-stdlib       3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2025-15367    Medium      0.4% (30th)   0.2    
+python3.13                 3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2025-15367    Medium      0.4% (30th)   0.2    
+python3.13-minimal         3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2025-15367    Medium      0.4% (30th)   0.2    
+tar                        1.35+dfsg-3.1                                       deb   CVE-2005-2541     Negligible  4.0% (90th)   0.2    
+libc-bin                   2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-77117    Medium      0.4% (28th)   0.2    
+libc-bin                   2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-80489    Medium      0.4% (28th)   0.2    
+libc-dev-bin               2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-77117    Medium      0.4% (28th)   0.2    
+libc-dev-bin               2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-80489    Medium      0.4% (28th)   0.2    
+libc6                      2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-77117    Medium      0.4% (28th)   0.2    
+libc6                      2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-80489    Medium      0.4% (28th)   0.2    
+libc6-dev                  2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-77117    Medium      0.4% (28th)   0.2    
+libc6-dev                  2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-80489    Medium      0.4% (28th)   0.2    
+cpp-14                     14.2.0-19                          (won't fix)      deb   CVE-2026-102010   High        0.2% (15th)   0.2    
+cpp-14-x86-64-linux-gnu    14.2.0-19                          (won't fix)      deb   CVE-2026-102010   High        0.2% (15th)   0.2    
+g++-14                     14.2.0-19                          (won't fix)      deb   CVE-2026-102010   High        0.2% (15th)   0.2    
+g++-14-x86-64-linux-gnu    14.2.0-19                          (won't fix)      deb   CVE-2026-102010   High        0.2% (15th)   0.2    
+gcc-14                     14.2.0-19                          (won't fix)      deb   CVE-2026-102010   High        0.2% (15th)   0.2    
+gcc-14-base                14.2.0-19                          (won't fix)      deb   CVE-2026-102010   High        0.2% (15th)   0.2    
+gcc-14-x86-64-linux-gnu    14.2.0-19                          (won't fix)      deb   CVE-2026-102010   High        0.2% (15th)   0.2    
+libasan8                   14.2.0-19                          (won't fix)      deb   CVE-2026-102010   High        0.2% (15th)   0.2    
+libatomic1                 14.2.0-19                          (won't fix)      deb   CVE-2026-102010   High        0.2% (15th)   0.2    
+libcc1-0                   14.2.0-19                          (won't fix)      deb   CVE-2026-102010   High        0.2% (15th)   0.2    
+libgcc-14-dev              14.2.0-19                          (won't fix)      deb   CVE-2026-102010   High        0.2% (15th)   0.2    
+libgcc-s1                  14.2.0-19                          (won't fix)      deb   CVE-2026-102010   High        0.2% (15th)   0.2    
+libgomp1                   14.2.0-19                          (won't fix)      deb   CVE-2026-102010   High        0.2% (15th)   0.2    
+libhwasan0                 14.2.0-19                          (won't fix)      deb   CVE-2026-102010   High        0.2% (15th)   0.2    
+libitm1                    14.2.0-19                          (won't fix)      deb   CVE-2026-102010   High        0.2% (15th)   0.2    
+liblsan0                   14.2.0-19                          (won't fix)      deb   CVE-2026-102010   High        0.2% (15th)   0.2    
+libquadmath0               14.2.0-19                          (won't fix)      deb   CVE-2026-102010   High        0.2% (15th)   0.2    
+libstdc++-14-dev           14.2.0-19                          (won't fix)      deb   CVE-2026-102010   High        0.2% (15th)   0.2    
+libstdc++6                 14.2.0-19                          (won't fix)      deb   CVE-2026-102010   High        0.2% (15th)   0.2    
+libtsan2                   14.2.0-19                          (won't fix)      deb   CVE-2026-102010   High        0.2% (15th)   0.2    
+libubsan1                  14.2.0-19                          (won't fix)      deb   CVE-2026-102010   High        0.2% (15th)   0.2    
+openssh-client             1:10.0p1-7+deb13u4                                  deb   CVE-2018-15919    Negligible  3.6% (89th)   0.2    
+bsdutils                   1:2.41.5-0+deb13u1                 (won't fix)      deb   CVE-2026-76642    High        0.2% (11th)   0.2    
+libblkid1                  2.41.5-0+deb13u1                   (won't fix)      deb   CVE-2026-76642    High        0.2% (11th)   0.2    
+liblastlog2-2              2.41.5-0+deb13u1                   (won't fix)      deb   CVE-2026-76642    High        0.2% (11th)   0.2    
+libmount1                  2.41.5-0+deb13u1                   (won't fix)      deb   CVE-2026-76642    High        0.2% (11th)   0.2    
+libsmartcols1              2.41.5-0+deb13u1                   (won't fix)      deb   CVE-2026-76642    High        0.2% (11th)   0.2    
+libuuid1                   2.41.5-0+deb13u1                   (won't fix)      deb   CVE-2026-76642    High        0.2% (11th)   0.2    
+login                      1:4.16.0-2+really2.41.5-0+deb13u1  (won't fix)      deb   CVE-2026-76642    High        0.2% (11th)   0.2    
+mount                      2.41.5-0+deb13u1                   (won't fix)      deb   CVE-2026-76642    High        0.2% (11th)   0.2    
+util-linux                 2.41.5-0+deb13u1                   (won't fix)      deb   CVE-2026-76642    High        0.2% (11th)   0.2    
+openssh-client             1:10.0p1-7+deb13u4                 (won't fix)      deb   CVE-2026-60001    Medium      0.3% (20th)   0.2    
+libc-bin                   2.41-12+deb13u4                                     deb   CVE-2019-1010022  Negligible  3.2% (88th)   0.2    
+libc-dev-bin               2.41-12+deb13u4                                     deb   CVE-2019-1010022  Negligible  3.2% (88th)   0.2    
+libc6                      2.41-12+deb13u4                                     deb   CVE-2019-1010022  Negligible  3.2% (88th)   0.2    
+libc6-dev                  2.41-12+deb13u4                                     deb   CVE-2019-1010022  Negligible  3.2% (88th)   0.2    
+libc-bin                   2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-8674     Medium      0.3% (23rd)   0.2    
+libc-dev-bin               2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-8674     Medium      0.3% (23rd)   0.2    
+libc6                      2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-8674     Medium      0.3% (23rd)   0.2    
+libc6-dev                  2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-8674     Medium      0.3% (23rd)   0.2    
+libc-bin                   2.41-12+deb13u4                                     deb   CVE-2019-1010024  Negligible  3.2% (88th)   0.2    
+libc-dev-bin               2.41-12+deb13u4                                     deb   CVE-2019-1010024  Negligible  3.2% (88th)   0.2    
+libc6                      2.41-12+deb13u4                                     deb   CVE-2019-1010024  Negligible  3.2% (88th)   0.2    
+libc6-dev                  2.41-12+deb13u4                                     deb   CVE-2019-1010024  Negligible  3.2% (88th)   0.2    
+curl                       8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-92387    Unknown     0.3% (22nd)   0.2    
+libcurl3t64-gnutls         8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-92387    Unknown     0.3% (22nd)   0.2    
+libcurl4t64                8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-92387    Unknown     0.3% (22nd)   0.2    
+libc-bin                   2.41-12+deb13u4                                     deb   CVE-2019-1010023  Negligible  3.1% (87th)   0.2    
+libc-dev-bin               2.41-12+deb13u4                                     deb   CVE-2019-1010023  Negligible  3.1% (87th)   0.2    
+libc6                      2.41-12+deb13u4                                     deb   CVE-2019-1010023  Negligible  3.1% (87th)   0.2    
+libc6-dev                  2.41-12+deb13u4                                     deb   CVE-2019-1010023  Negligible  3.1% (87th)   0.2    
+libpython3.13-minimal      3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-82049    High        0.2% (7th)    0.1    
+libpython3.13-stdlib       3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-82049    High        0.2% (7th)    0.1    
+python3.13                 3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-82049    High        0.2% (7th)    0.1    
+python3.13-minimal         3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-82049    High        0.2% (7th)    0.1    
+openssh-client             1:10.0p1-7+deb13u4                                  deb   CVE-2020-14145    Negligible  2.9% (87th)   0.1    
+wget                       1.25.0-2                           (won't fix)      deb   CVE-2026-58470    Medium      0.2% (15th)   0.1    
+curl                       8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-87863    Unknown     0.3% (20th)   0.1    
+curl                       8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-92386    Unknown     0.3% (20th)   0.1    
+curl                       8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-92388    Unknown     0.3% (20th)   0.1    
+libcurl3t64-gnutls         8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-87863    Unknown     0.3% (20th)   0.1    
+libcurl3t64-gnutls         8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-92386    Unknown     0.3% (20th)   0.1    
+libcurl3t64-gnutls         8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-92388    Unknown     0.3% (20th)   0.1    
+libcurl4t64                8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-87863    Unknown     0.3% (20th)   0.1    
+libcurl4t64                8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-92386    Unknown     0.3% (20th)   0.1    
+libcurl4t64                8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-92388    Unknown     0.3% (20th)   0.1    
+curl                       8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-86414    Unknown     0.3% (20th)   0.1    
+curl                       8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-92389    Unknown     0.3% (20th)   0.1    
+curl                       8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-92390    Unknown     0.3% (20th)   0.1    
+libcurl3t64-gnutls         8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-86414    Unknown     0.3% (20th)   0.1    
+libcurl3t64-gnutls         8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-92389    Unknown     0.3% (20th)   0.1    
+libcurl3t64-gnutls         8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-92390    Unknown     0.3% (20th)   0.1    
+libcurl4t64                8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-86414    Unknown     0.3% (20th)   0.1    
+libcurl4t64                8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-92389    Unknown     0.3% (20th)   0.1    
+libcurl4t64                8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-92390    Unknown     0.3% (20th)   0.1    
+curl                       8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-107929   Unknown     0.3% (20th)   0.1    
+curl                       8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-87862    Unknown     0.3% (20th)   0.1    
+libcurl3t64-gnutls         8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-107929   Unknown     0.3% (20th)   0.1    
+libcurl3t64-gnutls         8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-87862    Unknown     0.3% (20th)   0.1    
+libcurl4t64                8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-107929   Unknown     0.3% (20th)   0.1    
+libcurl4t64                8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-87862    Unknown     0.3% (20th)   0.1    
+bsdutils                   1:2.41.5-0+deb13u1                 (won't fix)      deb   CVE-2026-78408    High        0.2% (7th)    0.1    
+libblkid1                  2.41.5-0+deb13u1                   (won't fix)      deb   CVE-2026-78408    High        0.2% (7th)    0.1    
+liblastlog2-2              2.41.5-0+deb13u1                   (won't fix)      deb   CVE-2026-78408    High        0.2% (7th)    0.1    
+libmount1                  2.41.5-0+deb13u1                   (won't fix)      deb   CVE-2026-78408    High        0.2% (7th)    0.1    
+libsmartcols1              2.41.5-0+deb13u1                   (won't fix)      deb   CVE-2026-78408    High        0.2% (7th)    0.1    
+libuuid1                   2.41.5-0+deb13u1                   (won't fix)      deb   CVE-2026-78408    High        0.2% (7th)    0.1    
+login                      1:4.16.0-2+really2.41.5-0+deb13u1  (won't fix)      deb   CVE-2026-78408    High        0.2% (7th)    0.1    
+mount                      2.41.5-0+deb13u1                   (won't fix)      deb   CVE-2026-78408    High        0.2% (7th)    0.1    
+util-linux                 2.41.5-0+deb13u1                   (won't fix)      deb   CVE-2026-78408    High        0.2% (7th)    0.1    
+libnghttp2-14              1.64.0-1.1+deb13u1                 (won't fix)      deb   CVE-2026-58055    Medium      0.3% (15th)   0.1    
+login.defs                 1:4.17.4-2                         (won't fix)      deb   CVE-2024-56433    Low         0.4% (35th)   0.1    
+passwd                     1:4.17.4-2                         (won't fix)      deb   CVE-2024-56433    Low         0.4% (35th)   0.1    
+curl                       8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-92391    Unknown     0.3% (19th)   0.1    
+libcurl3t64-gnutls         8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-92391    Unknown     0.3% (19th)   0.1    
+libcurl4t64                8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-92391    Unknown     0.3% (19th)   0.1    
+curl                       8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-86410    Unknown     0.3% (18th)   0.1    
+curl                       8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-87865    Unknown     0.3% (18th)   0.1    
+curl                       8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-94266    Unknown     0.3% (18th)   0.1    
+libcurl3t64-gnutls         8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-86410    Unknown     0.3% (18th)   0.1    
+libcurl3t64-gnutls         8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-87865    Unknown     0.3% (18th)   0.1    
+libcurl3t64-gnutls         8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-94266    Unknown     0.3% (18th)   0.1    
+libcurl4t64                8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-86410    Unknown     0.3% (18th)   0.1    
+libcurl4t64                8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-87865    Unknown     0.3% (18th)   0.1    
+libcurl4t64                8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-94266    Unknown     0.3% (18th)   0.1    
+bsdutils                   1:2.41.5-0+deb13u1                 (won't fix)      deb   CVE-2026-78409    High        0.2% (8th)    0.1    
+libblkid1                  2.41.5-0+deb13u1                   (won't fix)      deb   CVE-2026-78409    High        0.2% (8th)    0.1    
+liblastlog2-2              2.41.5-0+deb13u1                   (won't fix)      deb   CVE-2026-78409    High        0.2% (8th)    0.1    
+libmount1                  2.41.5-0+deb13u1                   (won't fix)      deb   CVE-2026-78409    High        0.2% (8th)    0.1    
+libsmartcols1              2.41.5-0+deb13u1                   (won't fix)      deb   CVE-2026-78409    High        0.2% (8th)    0.1    
+libuuid1                   2.41.5-0+deb13u1                   (won't fix)      deb   CVE-2026-78409    High        0.2% (8th)    0.1    
+login                      1:4.16.0-2+really2.41.5-0+deb13u1  (won't fix)      deb   CVE-2026-78409    High        0.2% (8th)    0.1    
+mount                      2.41.5-0+deb13u1                   (won't fix)      deb   CVE-2026-78409    High        0.2% (8th)    0.1    
+util-linux                 2.41.5-0+deb13u1                   (won't fix)      deb   CVE-2026-78409    High        0.2% (8th)    0.1    
+libperl5.40                5.40.1-6+deb13u1                   (won't fix)      deb   CVE-2026-15534    Medium      0.3% (16th)   0.1    
+perl                       5.40.1-6+deb13u1                   (won't fix)      deb   CVE-2026-15534    Medium      0.3% (16th)   0.1    
+perl-base                  5.40.1-6+deb13u1                   (won't fix)      deb   CVE-2026-15534    Medium      0.3% (16th)   0.1    
+perl-modules-5.40          5.40.1-6+deb13u1                   (won't fix)      deb   CVE-2026-15534    Medium      0.3% (16th)   0.1    
+libpython3.13-minimal      3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-15310    Low         0.5% (43rd)   0.1    
+libpython3.13-stdlib       3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-15310    Low         0.5% (43rd)   0.1    
+python3.13                 3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-15310    Low         0.5% (43rd)   0.1    
+python3.13-minimal         3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-15310    Low         0.5% (43rd)   0.1    
+binutils                   2.44-3                                              deb   CVE-2018-20712    Negligible  2.7% (85th)   0.1    
+binutils-common            2.44-3                                              deb   CVE-2018-20712    Negligible  2.7% (85th)   0.1    
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2018-20712    Negligible  2.7% (85th)   0.1    
+libbinutils                2.44-3                                              deb   CVE-2018-20712    Negligible  2.7% (85th)   0.1    
+libctf-nobfd0              2.44-3                                              deb   CVE-2018-20712    Negligible  2.7% (85th)   0.1    
+libctf0                    2.44-3                                              deb   CVE-2018-20712    Negligible  2.7% (85th)   0.1    
+libgprofng0                2.44-3                                              deb   CVE-2018-20712    Negligible  2.7% (85th)   0.1    
+libsframe1                 2.44-3                                              deb   CVE-2018-20712    Negligible  2.7% (85th)   0.1    
+libc-bin                   2.41-12+deb13u4                                     deb   CVE-2010-4756     Negligible  2.6% (85th)   0.1    
+libc-dev-bin               2.41-12+deb13u4                                     deb   CVE-2010-4756     Negligible  2.6% (85th)   0.1    
+libc6                      2.41-12+deb13u4                                     deb   CVE-2010-4756     Negligible  2.6% (85th)   0.1    
+libc6-dev                  2.41-12+deb13u4                                     deb   CVE-2010-4756     Negligible  2.6% (85th)   0.1    
+git                        1:2.47.3-0+deb13u1                                  deb   CVE-2022-24975    Negligible  2.6% (85th)   0.1    
+git-man                    1:2.47.3-0+deb13u1                                  deb   CVE-2022-24975    Negligible  2.6% (85th)   0.1    
+openssh-client             1:10.0p1-7+deb13u4                 (won't fix)      deb   CVE-2026-59995    Medium      0.2% (15th)   0.1    
+openssh-client             1:10.0p1-7+deb13u4                 (won't fix)      deb   CVE-2026-59996    Medium      0.2% (15th)   0.1    
+curl                       8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-107928   Unknown     0.3% (16th)   0.1    
+libcurl3t64-gnutls         8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-107928   Unknown     0.3% (16th)   0.1    
+libcurl4t64                8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-107928   Unknown     0.3% (16th)   0.1    
+libc-bin                   2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-6791     Medium      0.2% (11th)   0.1    
+libc-dev-bin               2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-6791     Medium      0.2% (11th)   0.1    
+libc6                      2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-6791     Medium      0.2% (11th)   0.1    
+libc6-dev                  2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-6791     Medium      0.2% (11th)   0.1    
+libldap2                   2.6.10+dfsg-1                                       deb   CVE-2020-15719    Negligible  2.5% (84th)   0.1    
+curl                       8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-86409    Unknown     0.2% (15th)   0.1    
+libcurl3t64-gnutls         8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-86409    Unknown     0.2% (15th)   0.1    
+libcurl4t64                8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-86409    Unknown     0.2% (15th)   0.1    
+libc-bin                   2.41-12+deb13u4                                     deb   CVE-2019-1010025  Negligible  2.5% (84th)   0.1    
+libc-dev-bin               2.41-12+deb13u4                                     deb   CVE-2019-1010025  Negligible  2.5% (84th)   0.1    
+libc6                      2.41-12+deb13u4                                     deb   CVE-2019-1010025  Negligible  2.5% (84th)   0.1    
+libc6-dev                  2.41-12+deb13u4                                     deb   CVE-2019-1010025  Negligible  2.5% (84th)   0.1    
+libpython3.13-minimal      3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-114583   Medium      0.2% (10th)   0.1    
+libpython3.13-stdlib       3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-114583   Medium      0.2% (10th)   0.1    
+python3.13                 3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-114583   Medium      0.2% (10th)   0.1    
+python3.13-minimal         3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-114583   Medium      0.2% (10th)   0.1    
+libc-bin                   2.41-12+deb13u4                                     deb   CVE-2019-9192     Negligible  2.4% (84th)   0.1    
+libc-dev-bin               2.41-12+deb13u4                                     deb   CVE-2019-9192     Negligible  2.4% (84th)   0.1    
+libc6                      2.41-12+deb13u4                                     deb   CVE-2019-9192     Negligible  2.4% (84th)   0.1    
+libc6-dev                  2.41-12+deb13u4                                     deb   CVE-2019-9192     Negligible  2.4% (84th)   0.1    
+openssh-client             1:10.0p1-7+deb13u4                                  deb   CVE-2007-2243     Negligible  2.4% (83rd)   0.1    
+libc-bin                   2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-19542    Medium      0.2% (12th)   0.1    
+libc-dev-bin               2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-19542    Medium      0.2% (12th)   0.1    
+libc6                      2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-19542    Medium      0.2% (12th)   0.1    
+libc6-dev                  2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-19542    Medium      0.2% (12th)   0.1    
+bsdutils                   1:2.41.5-0+deb13u1                 (won't fix)      deb   CVE-2026-78410    High        0.2% (4th)    0.1    
+libblkid1                  2.41.5-0+deb13u1                   (won't fix)      deb   CVE-2026-78410    High        0.2% (4th)    0.1    
+liblastlog2-2              2.41.5-0+deb13u1                   (won't fix)      deb   CVE-2026-78410    High        0.2% (4th)    0.1    
+libmount1                  2.41.5-0+deb13u1                   (won't fix)      deb   CVE-2026-78410    High        0.2% (4th)    0.1    
+libsmartcols1              2.41.5-0+deb13u1                   (won't fix)      deb   CVE-2026-78410    High        0.2% (4th)    0.1    
+libuuid1                   2.41.5-0+deb13u1                   (won't fix)      deb   CVE-2026-78410    High        0.2% (4th)    0.1    
+login                      1:4.16.0-2+really2.41.5-0+deb13u1  (won't fix)      deb   CVE-2026-78410    High        0.2% (4th)    0.1    
+mount                      2.41.5-0+deb13u1                   (won't fix)      deb   CVE-2026-78410    High        0.2% (4th)    0.1    
+util-linux                 2.41.5-0+deb13u1                   (won't fix)      deb   CVE-2026-78410    High        0.2% (4th)    0.1    
+openssh-client             1:10.0p1-7+deb13u4                 (won't fix)      deb   CVE-2026-59999    High        0.2% (4th)    0.1    
+openssh-client             1:10.0p1-7+deb13u4                 (won't fix)      deb   CVE-2026-106583   High        0.2% (3rd)    0.1    
+libacl1                    2.3.2-2+b1                         (won't fix)      deb   CVE-2026-54369    High        0.2% (4th)    0.1    
+libc-bin                   2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-89092    Medium      0.2% (14th)   0.1    
+libc-dev-bin               2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-89092    Medium      0.2% (14th)   0.1    
+libc6                      2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-89092    Medium      0.2% (14th)   0.1    
+libc6-dev                  2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-89092    Medium      0.2% (14th)   0.1    
+zlib1g                     1:1.3.dfsg+really1.3.1-1+b1        (won't fix)      deb   CVE-2026-27171    Medium      0.2% (10th)   0.1    
+openssh-client             1:10.0p1-7+deb13u4                 (won't fix)      deb   CVE-2026-106585   Medium      0.2% (8th)    0.1    
+libexpat1                  2.9.0-1~deb13u1                    (won't fix)      deb   CVE-2025-66382    Medium      0.2% (9th)    0.1    
+openssh-client             1:10.0p1-7+deb13u4                 (won't fix)      deb   CVE-2026-59998    Medium      0.2% (7th)    0.1    
+curl                       8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-87864    Unknown     0.2% (10th)   0.1    
+libcurl3t64-gnutls         8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-87864    Unknown     0.2% (10th)   0.1    
+libcurl4t64                8.14.1-2+deb13u7                   (won't fix)      deb   CVE-2026-87864    Unknown     0.2% (10th)   0.1    
+libgssapi-krb5-2           1.21.3-5+deb13u1                                    deb   CVE-2018-5709     Negligible  2.0% (81st)   0.1    
+libk5crypto3               1.21.3-5+deb13u1                                    deb   CVE-2018-5709     Negligible  2.0% (81st)   0.1    
+libkrb5-3                  1.21.3-5+deb13u1                                    deb   CVE-2018-5709     Negligible  2.0% (81st)   0.1    
+libkrb5support0            1.21.3-5+deb13u1                                    deb   CVE-2018-5709     Negligible  2.0% (81st)   0.1    
+openssh-client             1:10.0p1-7+deb13u4                 (won't fix)      deb   CVE-2026-106553   High        0.1% (2nd)    0.1    
+openssh-client             1:10.0p1-7+deb13u4                 (won't fix)      deb   CVE-2026-106555   High        0.1% (2nd)    0.1    
+libncursesw6               6.5+20250216-2                     (won't fix)      deb   CVE-2025-6141     Medium      0.2% (9th)    < 0.1  
+libtinfo6                  6.5+20250216-2                     (won't fix)      deb   CVE-2025-6141     Medium      0.2% (9th)    < 0.1  
+ncurses-base               6.5+20250216-2                     (won't fix)      deb   CVE-2025-6141     Medium      0.2% (9th)    < 0.1  
+ncurses-bin                6.5+20250216-2                     (won't fix)      deb   CVE-2025-6141     Medium      0.2% (9th)    < 0.1  
+libpython3.13-minimal      3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-12345    Medium      0.2% (7th)    < 0.1  
+libpython3.13-stdlib       3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-12345    Medium      0.2% (7th)    < 0.1  
+python3.13                 3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-12345    Medium      0.2% (7th)    < 0.1  
+python3.13-minimal         3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-12345    Medium      0.2% (7th)    < 0.1  
+libc-bin                   2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-97399    Low         0.3% (20th)   < 0.1  
+libc-dev-bin               2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-97399    Low         0.3% (20th)   < 0.1  
+libc6                      2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-97399    Low         0.3% (20th)   < 0.1  
+libc6-dev                  2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-97399    Low         0.3% (20th)   < 0.1  
+openssh-client             1:10.0p1-7+deb13u4                 (won't fix)      deb   CVE-2026-59997    Medium      0.2% (6th)    < 0.1  
+wget                       1.25.0-2                           (won't fix)      deb   CVE-2026-15146    Medium      0.2% (5th)    < 0.1  
+libbz2-1.0                 1.0.8-6                            (won't fix)      deb   CVE-2026-42250    Medium      0.2% (7th)    < 0.1  
+libgcrypt20                1.11.0-7+deb13u1                                    deb   CVE-2018-6829     Negligible  1.8% (78th)   < 0.1  
+libp11-kit0                0.25.5-3                           (won't fix)      deb   CVE-2026-13757    Medium      0.2% (4th)    < 0.1  
+libsqlite3-0               3.46.1-7+deb13u2                   (won't fix)      deb   CVE-2026-50812    Medium      0.2% (4th)    < 0.1  
+libsqlite3-0               3.46.1-7+deb13u2                   (won't fix)      deb   CVE-2026-50813    Medium      0.2% (4th)    < 0.1  
+libattr1                   1:2.5.2-3                          (won't fix)      deb   CVE-2026-54371    Medium      0.1% (3rd)    < 0.1  
+binutils                   2.44-3                                              deb   CVE-2018-20673    Negligible  1.6% (76th)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2018-20673    Negligible  1.6% (76th)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2018-20673    Negligible  1.6% (76th)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2018-20673    Negligible  1.6% (76th)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2018-20673    Negligible  1.6% (76th)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2018-20673    Negligible  1.6% (76th)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2018-20673    Negligible  1.6% (76th)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2018-20673    Negligible  1.6% (76th)   < 0.1  
+libsqlite3-0               3.46.1-7+deb13u2                                    deb   CVE-2021-45346    Negligible  1.6% (76th)   < 0.1  
+openssh-client             1:10.0p1-7+deb13u4                 (won't fix)      deb   CVE-2026-73282    Medium      0.2% (5th)    < 0.1  
+libc-bin                   2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-18374    Medium      0.1% (3rd)    < 0.1  
+libc-dev-bin               2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-18374    Medium      0.1% (3rd)    < 0.1  
+libc6                      2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-18374    Medium      0.1% (3rd)    < 0.1  
+libc6-dev                  2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-18374    Medium      0.1% (3rd)    < 0.1  
+binutils                   2.44-3                                              deb   CVE-2017-13716    Negligible  1.4% (72nd)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2017-13716    Negligible  1.4% (72nd)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2017-13716    Negligible  1.4% (72nd)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2017-13716    Negligible  1.4% (72nd)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2017-13716    Negligible  1.4% (72nd)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2017-13716    Negligible  1.4% (72nd)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2017-13716    Negligible  1.4% (72nd)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2017-13716    Negligible  1.4% (72nd)   < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-1153     Negligible  1.4% (71st)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-1153     Negligible  1.4% (71st)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-1153     Negligible  1.4% (71st)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-1153     Negligible  1.4% (71st)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-1153     Negligible  1.4% (71st)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-1153     Negligible  1.4% (71st)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-1153     Negligible  1.4% (71st)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-1153     Negligible  1.4% (71st)   < 0.1  
+tar                        1.35+dfsg-3.1                      (won't fix)      deb   CVE-2026-18508    Medium      0.1% (3rd)    < 0.1  
+libacl1                    2.3.2-2+b1                         (won't fix)      deb   CVE-2026-54370    High        < 0.1% (0th)  < 0.1  
+binutils                   2.44-3                                              deb   CVE-2018-9996     Negligible  1.3% (69th)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2018-9996     Negligible  1.3% (69th)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2018-9996     Negligible  1.3% (69th)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2018-9996     Negligible  1.3% (69th)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2018-9996     Negligible  1.3% (69th)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2018-9996     Negligible  1.3% (69th)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2018-9996     Negligible  1.3% (69th)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2018-9996     Negligible  1.3% (69th)   < 0.1  
+libsystemd0                257.13-1~deb13u1                   (won't fix)      deb   CVE-2026-15059    Medium      0.1% (1st)    < 0.1  
+libudev1                   257.13-1~deb13u1                   (won't fix)      deb   CVE-2026-15059    Medium      0.1% (1st)    < 0.1  
+openssh-client             1:10.0p1-7+deb13u4                 (won't fix)      deb   CVE-2026-106582   Low         0.2% (7th)    < 0.1  
+libp11-kit0                0.25.5-3                           (won't fix)      deb   CVE-2026-18938    Medium      0.1% (1st)    < 0.1  
+apt                        3.0.3                                               deb   CVE-2011-3374     Negligible  1.2% (67th)   < 0.1  
+libapt-pkg7.0              3.0.3                                               deb   CVE-2011-3374     Negligible  1.2% (67th)   < 0.1  
+openssh-client             1:10.0p1-7+deb13u4                 (won't fix)      deb   CVE-2026-106586   Medium      0.1% (1st)    < 0.1  
+libgcrypt20                1.11.0-7+deb13u1                                    deb   CVE-2024-2236     Negligible  1.1% (66th)   < 0.1  
+libgssapi-krb5-2           1.21.3-5+deb13u1                                    deb   CVE-2024-26461    Negligible  1.1% (66th)   < 0.1  
+libk5crypto3               1.21.3-5+deb13u1                                    deb   CVE-2024-26461    Negligible  1.1% (66th)   < 0.1  
+libkrb5-3                  1.21.3-5+deb13u1                                    deb   CVE-2024-26461    Negligible  1.1% (66th)   < 0.1  
+libkrb5support0            1.21.3-5+deb13u1                                    deb   CVE-2024-26461    Negligible  1.1% (66th)   < 0.1  
+libc-bin                   2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-86805    Medium      < 0.1% (0th)  < 0.1  
+libc-dev-bin               2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-86805    Medium      < 0.1% (0th)  < 0.1  
+libc6                      2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-86805    Medium      < 0.1% (0th)  < 0.1  
+libc6-dev                  2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-86805    Medium      < 0.1% (0th)  < 0.1  
+dirmngr                    2.4.7-21+deb13u1+b5                (won't fix)      deb   CVE-2025-68972    Medium      0.1% (1st)    < 0.1  
+gnupg                      2.4.7-21+deb13u1                   (won't fix)      deb   CVE-2025-68972    Medium      0.1% (1st)    < 0.1  
+gnupg-l10n                 2.4.7-21+deb13u1                   (won't fix)      deb   CVE-2025-68972    Medium      0.1% (1st)    < 0.1  
+gpg                        2.4.7-21+deb13u1+b5                (won't fix)      deb   CVE-2025-68972    Medium      0.1% (1st)    < 0.1  
+gpg-agent                  2.4.7-21+deb13u1+b5                (won't fix)      deb   CVE-2025-68972    Medium      0.1% (1st)    < 0.1  
+gpgconf                    2.4.7-21+deb13u1+b5                (won't fix)      deb   CVE-2025-68972    Medium      0.1% (1st)    < 0.1  
+gpgsm                      2.4.7-21+deb13u1+b5                (won't fix)      deb   CVE-2025-68972    Medium      0.1% (1st)    < 0.1  
+git                        1:2.47.3-0+deb13u1                                  deb   CVE-2018-1000021  Negligible  1.1% (64th)   < 0.1  
+git-man                    1:2.47.3-0+deb13u1                                  deb   CVE-2018-1000021  Negligible  1.1% (64th)   < 0.1  
+openssh-client             1:10.0p1-7+deb13u4                 (won't fix)      deb   CVE-2026-73281    Low         0.2% (4th)    < 0.1  
+login.defs                 1:4.17.4-2                                          deb   CVE-2007-5686     Negligible  0.9% (60th)   < 0.1  
+passwd                     1:4.17.4-2                                          deb   CVE-2007-5686     Negligible  0.9% (60th)   < 0.1  
+dirmngr                    2.4.7-21+deb13u1+b5                (won't fix)      deb   CVE-2026-57062    Low         0.1% (3rd)    < 0.1  
+gnupg                      2.4.7-21+deb13u1                   (won't fix)      deb   CVE-2026-57062    Low         0.1% (3rd)    < 0.1  
+gnupg-l10n                 2.4.7-21+deb13u1                   (won't fix)      deb   CVE-2026-57062    Low         0.1% (3rd)    < 0.1  
+gpg                        2.4.7-21+deb13u1+b5                (won't fix)      deb   CVE-2026-57062    Low         0.1% (3rd)    < 0.1  
+gpg-agent                  2.4.7-21+deb13u1+b5                (won't fix)      deb   CVE-2026-57062    Low         0.1% (3rd)    < 0.1  
+gpgconf                    2.4.7-21+deb13u1+b5                (won't fix)      deb   CVE-2026-57062    Low         0.1% (3rd)    < 0.1  
+gpgsm                      2.4.7-21+deb13u1+b5                (won't fix)      deb   CVE-2026-57062    Low         0.1% (3rd)    < 0.1  
+libsystemd0                257.13-1~deb13u1                   (won't fix)      deb   CVE-2026-40228    Low         0.1% (2nd)    < 0.1  
+libudev1                   257.13-1~deb13u1                   (won't fix)      deb   CVE-2026-40228    Low         0.1% (2nd)    < 0.1  
+libc-bin                   2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-95818    Low         0.1% (2nd)    < 0.1  
+libc-dev-bin               2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-95818    Low         0.1% (2nd)    < 0.1  
+libc6                      2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-95818    Low         0.1% (2nd)    < 0.1  
+libc6-dev                  2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-95818    Low         0.1% (2nd)    < 0.1  
+libgssapi-krb5-2           1.21.3-5+deb13u1                                    deb   CVE-2024-26458    Negligible  0.8% (56th)   < 0.1  
+libk5crypto3               1.21.3-5+deb13u1                                    deb   CVE-2024-26458    Negligible  0.8% (56th)   < 0.1  
+libkrb5-3                  1.21.3-5+deb13u1                                    deb   CVE-2024-26458    Negligible  0.8% (56th)   < 0.1  
+libkrb5support0            1.21.3-5+deb13u1                                    deb   CVE-2024-26458    Negligible  0.8% (56th)   < 0.1  
+dirmngr                    2.4.7-21+deb13u1+b5                (won't fix)      deb   CVE-2026-105712   Low         0.1% (1st)    < 0.1  
+gnupg                      2.4.7-21+deb13u1                   (won't fix)      deb   CVE-2026-105712   Low         0.1% (1st)    < 0.1  
+gnupg-l10n                 2.4.7-21+deb13u1                   (won't fix)      deb   CVE-2026-105712   Low         0.1% (1st)    < 0.1  
+gpg                        2.4.7-21+deb13u1+b5                (won't fix)      deb   CVE-2026-105712   Low         0.1% (1st)    < 0.1  
+gpg-agent                  2.4.7-21+deb13u1+b5                (won't fix)      deb   CVE-2026-105712   Low         0.1% (1st)    < 0.1  
+gpgconf                    2.4.7-21+deb13u1+b5                (won't fix)      deb   CVE-2026-105712   Low         0.1% (1st)    < 0.1  
+gpgsm                      2.4.7-21+deb13u1+b5                (won't fix)      deb   CVE-2026-105712   Low         0.1% (1st)    < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-1178     Negligible  0.8% (56th)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-1178     Negligible  0.8% (56th)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-1178     Negligible  0.8% (56th)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-1178     Negligible  0.8% (56th)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-1178     Negligible  0.8% (56th)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-1178     Negligible  0.8% (56th)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-1178     Negligible  0.8% (56th)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-1178     Negligible  0.8% (56th)   < 0.1  
+tar                        1.35+dfsg-3.1                      (won't fix)      deb   CVE-2026-18477    Medium      < 0.1% (0th)  < 0.1  
+binutils                   2.44-3                                              deb   CVE-2021-32256    Negligible  0.7% (54th)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2021-32256    Negligible  0.7% (54th)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2021-32256    Negligible  0.7% (54th)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2021-32256    Negligible  0.7% (54th)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2021-32256    Negligible  0.7% (54th)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2021-32256    Negligible  0.7% (54th)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2021-32256    Negligible  0.7% (54th)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2021-32256    Negligible  0.7% (54th)   < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-1181     Negligible  0.7% (53rd)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-1181     Negligible  0.7% (53rd)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-1181     Negligible  0.7% (53rd)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-1181     Negligible  0.7% (53rd)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-1181     Negligible  0.7% (53rd)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-1181     Negligible  0.7% (53rd)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-1181     Negligible  0.7% (53rd)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-1181     Negligible  0.7% (53rd)   < 0.1  
+libbrotli1                 1.1.0-2+b7                         1.1.0-2+deb13u1  deb   CVE-2026-111497   Negligible  0.7% (53rd)   < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-1180     Negligible  0.7% (52nd)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-1180     Negligible  0.7% (52nd)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-1180     Negligible  0.7% (52nd)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-1180     Negligible  0.7% (52nd)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-1180     Negligible  0.7% (52nd)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-1180     Negligible  0.7% (52nd)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-1180     Negligible  0.7% (52nd)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-1180     Negligible  0.7% (52nd)   < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-1176     Negligible  0.7% (51st)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-1176     Negligible  0.7% (51st)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-1176     Negligible  0.7% (51st)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-1176     Negligible  0.7% (51st)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-1176     Negligible  0.7% (51st)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-1176     Negligible  0.7% (51st)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-1176     Negligible  0.7% (51st)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-1176     Negligible  0.7% (51st)   < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-1147     Negligible  0.7% (51st)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-1147     Negligible  0.7% (51st)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-1147     Negligible  0.7% (51st)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-1147     Negligible  0.7% (51st)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-1147     Negligible  0.7% (51st)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-1147     Negligible  0.7% (51st)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-1147     Negligible  0.7% (51st)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-1147     Negligible  0.7% (51st)   < 0.1  
+libsystemd0                257.13-1~deb13u1                   (won't fix)      deb   CVE-2026-16742    Medium      < 0.1% (0th)  < 0.1  
+libudev1                   257.13-1~deb13u1                   (won't fix)      deb   CVE-2026-16742    Medium      < 0.1% (0th)  < 0.1  
+libpython3.13-minimal      3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-18503    Low         0.1% (1st)    < 0.1  
+libpython3.13-stdlib       3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-18503    Low         0.1% (1st)    < 0.1  
+python3.13                 3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-18503    Low         0.1% (1st)    < 0.1  
+python3.13-minimal         3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-18503    Low         0.1% (1st)    < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-1148     Negligible  0.6% (49th)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-1148     Negligible  0.6% (49th)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-1148     Negligible  0.6% (49th)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-1148     Negligible  0.6% (49th)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-1148     Negligible  0.6% (49th)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-1148     Negligible  0.6% (49th)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-1148     Negligible  0.6% (49th)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-1148     Negligible  0.6% (49th)   < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-1152     Negligible  0.6% (48th)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-1152     Negligible  0.6% (48th)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-1152     Negligible  0.6% (48th)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-1152     Negligible  0.6% (48th)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-1152     Negligible  0.6% (48th)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-1152     Negligible  0.6% (48th)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-1152     Negligible  0.6% (48th)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-1152     Negligible  0.6% (48th)   < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-1150     Negligible  0.6% (48th)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-1150     Negligible  0.6% (48th)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-1150     Negligible  0.6% (48th)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-1150     Negligible  0.6% (48th)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-1150     Negligible  0.6% (48th)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-1150     Negligible  0.6% (48th)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-1150     Negligible  0.6% (48th)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-1150     Negligible  0.6% (48th)   < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-1151     Negligible  0.6% (48th)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-1151     Negligible  0.6% (48th)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-1151     Negligible  0.6% (48th)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-1151     Negligible  0.6% (48th)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-1151     Negligible  0.6% (48th)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-1151     Negligible  0.6% (48th)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-1151     Negligible  0.6% (48th)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-1151     Negligible  0.6% (48th)   < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-1182     Negligible  0.6% (47th)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-1182     Negligible  0.6% (47th)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-1182     Negligible  0.6% (47th)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-1182     Negligible  0.6% (47th)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-1182     Negligible  0.6% (47th)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-1182     Negligible  0.6% (47th)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-1182     Negligible  0.6% (47th)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-1182     Negligible  0.6% (47th)   < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-1149     Negligible  0.6% (46th)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-1149     Negligible  0.6% (46th)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-1149     Negligible  0.6% (46th)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-1149     Negligible  0.6% (46th)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-1149     Negligible  0.6% (46th)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-1149     Negligible  0.6% (46th)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-1149     Negligible  0.6% (46th)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-1149     Negligible  0.6% (46th)   < 0.1  
+curl                       8.14.1-2+deb13u7                                    deb   CVE-2025-15079    Negligible  0.5% (45th)   < 0.1  
+libcurl3t64-gnutls         8.14.1-2+deb13u7                                    deb   CVE-2025-15079    Negligible  0.5% (45th)   < 0.1  
+libcurl4t64                8.14.1-2+deb13u7                                    deb   CVE-2025-15079    Negligible  0.5% (45th)   < 0.1  
+libc-bin                   2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-6368     Low         0.1% (1st)    < 0.1  
+libc-dev-bin               2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-6368     Low         0.1% (1st)    < 0.1  
+libc6                      2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-6368     Low         0.1% (1st)    < 0.1  
+libc6-dev                  2.41-12+deb13u4                    (won't fix)      deb   CVE-2026-6368     Low         0.1% (1st)    < 0.1  
+openssh-client             1:10.0p1-7+deb13u4                 (won't fix)      deb   CVE-2026-106587   Low         < 0.1% (0th)  < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-69650    Negligible  0.5% (44th)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-69650    Negligible  0.5% (44th)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-69650    Negligible  0.5% (44th)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-69650    Negligible  0.5% (44th)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-69650    Negligible  0.5% (44th)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-69650    Negligible  0.5% (44th)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-69650    Negligible  0.5% (44th)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-69650    Negligible  0.5% (44th)   < 0.1  
+libperl5.40                5.40.1-6+deb13u1                                    deb   CVE-2011-4116     Negligible  0.5% (43rd)   < 0.1  
+perl                       5.40.1-6+deb13u1                                    deb   CVE-2011-4116     Negligible  0.5% (43rd)   < 0.1  
+perl-base                  5.40.1-6+deb13u1                                    deb   CVE-2011-4116     Negligible  0.5% (43rd)   < 0.1  
+perl-modules-5.40          5.40.1-6+deb13u1                                    deb   CVE-2011-4116     Negligible  0.5% (43rd)   < 0.1  
+git                        1:2.47.3-0+deb13u1                                  deb   CVE-2024-52005    Negligible  0.5% (42nd)   < 0.1  
+git-man                    1:2.47.3-0+deb13u1                                  deb   CVE-2024-52005    Negligible  0.5% (42nd)   < 0.1  
+openssh-client             1:10.0p1-7+deb13u4                 (won't fix)      deb   CVE-2026-73283    Low         < 0.1% (0th)  < 0.1  
+curl                       8.14.1-2+deb13u7                                    deb   CVE-2025-15224    Negligible  0.5% (40th)   < 0.1  
+libcurl3t64-gnutls         8.14.1-2+deb13u7                                    deb   CVE-2025-15224    Negligible  0.5% (40th)   < 0.1  
+libcurl4t64                8.14.1-2+deb13u7                                    deb   CVE-2025-15224    Negligible  0.5% (40th)   < 0.1  
+libpython3.13-minimal      3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-19672    Negligible  0.5% (39th)   < 0.1  
+libpython3.13-stdlib       3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-19672    Negligible  0.5% (39th)   < 0.1  
+python3.13                 3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-19672    Negligible  0.5% (39th)   < 0.1  
+python3.13-minimal         3.13.5-2+deb13u5                   (won't fix)      deb   CVE-2026-19672    Negligible  0.5% (39th)   < 0.1  
+libsystemd0                257.13-1~deb13u1                                    deb   CVE-2013-4392     Negligible  0.5% (39th)   < 0.1  
+libudev1                   257.13-1~deb13u1                                    deb   CVE-2013-4392     Negligible  0.5% (39th)   < 0.1  
+bsdutils                   1:2.41.5-0+deb13u1                                  deb   CVE-2022-0563     Negligible  0.4% (36th)   < 0.1  
+libblkid1                  2.41.5-0+deb13u1                                    deb   CVE-2022-0563     Negligible  0.4% (36th)   < 0.1  
+liblastlog2-2              2.41.5-0+deb13u1                                    deb   CVE-2022-0563     Negligible  0.4% (36th)   < 0.1  
+libmount1                  2.41.5-0+deb13u1                                    deb   CVE-2022-0563     Negligible  0.4% (36th)   < 0.1  
+libsmartcols1              2.41.5-0+deb13u1                                    deb   CVE-2022-0563     Negligible  0.4% (36th)   < 0.1  
+libuuid1                   2.41.5-0+deb13u1                                    deb   CVE-2022-0563     Negligible  0.4% (36th)   < 0.1  
+login                      1:4.16.0-2+really2.41.5-0+deb13u1                   deb   CVE-2022-0563     Negligible  0.4% (36th)   < 0.1  
+mount                      2.41.5-0+deb13u1                                    deb   CVE-2022-0563     Negligible  0.4% (36th)   < 0.1  
+util-linux                 2.41.5-0+deb13u1                                    deb   CVE-2022-0563     Negligible  0.4% (36th)   < 0.1  
+curl                       8.14.1-2+deb13u7                                    deb   CVE-2025-10966    Negligible  0.4% (35th)   < 0.1  
+libcurl3t64-gnutls         8.14.1-2+deb13u7                                    deb   CVE-2025-10966    Negligible  0.4% (35th)   < 0.1  
+libcurl4t64                8.14.1-2+deb13u7                                    deb   CVE-2025-10966    Negligible  0.4% (35th)   < 0.1  
+curl                       8.14.1-2+deb13u7                                    deb   CVE-2026-82208    Negligible  0.4% (33rd)   < 0.1  
+libcurl3t64-gnutls         8.14.1-2+deb13u7                                    deb   CVE-2026-82208    Negligible  0.4% (33rd)   < 0.1  
+libcurl4t64                8.14.1-2+deb13u7                                    deb   CVE-2026-82208    Negligible  0.4% (33rd)   < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-66863    Negligible  0.4% (30th)   < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-66865    Negligible  0.4% (30th)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-66863    Negligible  0.4% (30th)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-66865    Negligible  0.4% (30th)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-66863    Negligible  0.4% (30th)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-66865    Negligible  0.4% (30th)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-66863    Negligible  0.4% (30th)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-66865    Negligible  0.4% (30th)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-66863    Negligible  0.4% (30th)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-66865    Negligible  0.4% (30th)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-66863    Negligible  0.4% (30th)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-66865    Negligible  0.4% (30th)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-66863    Negligible  0.4% (30th)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-66865    Negligible  0.4% (30th)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-66863    Negligible  0.4% (30th)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-66865    Negligible  0.4% (30th)   < 0.1  
+wget                       1.25.0-2                                            deb   CVE-2026-16599    Negligible  0.4% (30th)   < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-66862    Negligible  0.4% (29th)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-66862    Negligible  0.4% (29th)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-66862    Negligible  0.4% (29th)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-66862    Negligible  0.4% (29th)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-66862    Negligible  0.4% (29th)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-66862    Negligible  0.4% (29th)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-66862    Negligible  0.4% (29th)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-66862    Negligible  0.4% (29th)   < 0.1  
+libsystemd0                257.13-1~deb13u1                                    deb   CVE-2023-31439    Negligible  0.3% (27th)   < 0.1  
+libudev1                   257.13-1~deb13u1                                    deb   CVE-2023-31439    Negligible  0.3% (27th)   < 0.1  
+libldap2                   2.6.10+dfsg-1                                       deb   CVE-2017-14159    Negligible  0.3% (27th)   < 0.1  
+coreutils                  9.7-3                                               deb   CVE-2017-18018    Negligible  0.3% (26th)   < 0.1  
+libsystemd0                257.13-1~deb13u1                                    deb   CVE-2023-31437    Negligible  0.3% (26th)   < 0.1  
+libudev1                   257.13-1~deb13u1                                    deb   CVE-2023-31437    Negligible  0.3% (26th)   < 0.1  
+libsqlite3-0               3.46.1-7+deb13u2                                    deb   CVE-2025-70873    Negligible  0.3% (25th)   < 0.1  
+diffutils                  1:3.10-4                                            deb   CVE-2026-53910    Negligible  0.3% (25th)   < 0.1  
+libsystemd0                257.13-1~deb13u1                                    deb   CVE-2023-31438    Negligible  0.3% (24th)   < 0.1  
+libudev1                   257.13-1~deb13u1                                    deb   CVE-2023-31438    Negligible  0.3% (24th)   < 0.1  
+curl                       8.14.1-2+deb13u7                                    deb   CVE-2026-9547     Negligible  0.3% (24th)   < 0.1  
+libcurl3t64-gnutls         8.14.1-2+deb13u7                                    deb   CVE-2026-9547     Negligible  0.3% (24th)   < 0.1  
+libcurl4t64                8.14.1-2+deb13u7                                    deb   CVE-2026-9547     Negligible  0.3% (24th)   < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-66866    Negligible  0.3% (22nd)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-66866    Negligible  0.3% (22nd)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-66866    Negligible  0.3% (22nd)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-66866    Negligible  0.3% (22nd)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-66866    Negligible  0.3% (22nd)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-66866    Negligible  0.3% (22nd)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-66866    Negligible  0.3% (22nd)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-66866    Negligible  0.3% (22nd)   < 0.1  
+coreutils                  9.7-3                                               deb   CVE-2025-5278     Negligible  0.3% (22nd)   < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-7545     Negligible  0.3% (22nd)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-7545     Negligible  0.3% (22nd)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-7545     Negligible  0.3% (22nd)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-7545     Negligible  0.3% (22nd)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-7545     Negligible  0.3% (22nd)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-7545     Negligible  0.3% (22nd)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-7545     Negligible  0.3% (22nd)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-7545     Negligible  0.3% (22nd)   < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-5245     Negligible  0.3% (21st)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-5245     Negligible  0.3% (21st)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-5245     Negligible  0.3% (21st)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-5245     Negligible  0.3% (21st)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-5245     Negligible  0.3% (21st)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-5245     Negligible  0.3% (21st)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-5245     Negligible  0.3% (21st)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-5245     Negligible  0.3% (21st)   < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-5244     Negligible  0.3% (21st)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-5244     Negligible  0.3% (21st)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-5244     Negligible  0.3% (21st)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-5244     Negligible  0.3% (21st)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-5244     Negligible  0.3% (21st)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-5244     Negligible  0.3% (21st)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-5244     Negligible  0.3% (21st)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-5244     Negligible  0.3% (21st)   < 0.1  
+dirmngr                    2.4.7-21+deb13u1+b5                                 deb   CVE-2022-3219     Negligible  0.3% (20th)   < 0.1  
+gnupg                      2.4.7-21+deb13u1                                    deb   CVE-2022-3219     Negligible  0.3% (20th)   < 0.1  
+gnupg-l10n                 2.4.7-21+deb13u1                                    deb   CVE-2022-3219     Negligible  0.3% (20th)   < 0.1  
+gpg                        2.4.7-21+deb13u1+b5                                 deb   CVE-2022-3219     Negligible  0.3% (20th)   < 0.1  
+gpg-agent                  2.4.7-21+deb13u1+b5                                 deb   CVE-2022-3219     Negligible  0.3% (20th)   < 0.1  
+gpgconf                    2.4.7-21+deb13u1+b5                                 deb   CVE-2022-3219     Negligible  0.3% (20th)   < 0.1  
+gpgsm                      2.4.7-21+deb13u1+b5                                 deb   CVE-2022-3219     Negligible  0.3% (20th)   < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-3198     Negligible  0.3% (19th)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-3198     Negligible  0.3% (19th)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-3198     Negligible  0.3% (19th)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-3198     Negligible  0.3% (19th)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-3198     Negligible  0.3% (19th)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-3198     Negligible  0.3% (19th)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-3198     Negligible  0.3% (19th)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-3198     Negligible  0.3% (19th)   < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-11839    Negligible  0.3% (19th)   < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-11840    Negligible  0.3% (19th)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-11839    Negligible  0.3% (19th)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-11840    Negligible  0.3% (19th)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-11839    Negligible  0.3% (19th)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-11840    Negligible  0.3% (19th)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-11839    Negligible  0.3% (19th)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-11840    Negligible  0.3% (19th)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-11839    Negligible  0.3% (19th)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-11840    Negligible  0.3% (19th)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-11839    Negligible  0.3% (19th)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-11840    Negligible  0.3% (19th)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-11839    Negligible  0.3% (19th)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-11840    Negligible  0.3% (19th)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-11839    Negligible  0.3% (19th)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-11840    Negligible  0.3% (19th)   < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-69649    Negligible  0.3% (18th)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-69649    Negligible  0.3% (18th)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-69649    Negligible  0.3% (18th)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-69649    Negligible  0.3% (18th)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-69649    Negligible  0.3% (18th)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-69649    Negligible  0.3% (18th)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-69649    Negligible  0.3% (18th)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-69649    Negligible  0.3% (18th)   < 0.1  
+libgssapi-krb5-2           1.21.3-5+deb13u1                                    deb   CVE-2026-11850    Negligible  0.3% (18th)   < 0.1  
+libk5crypto3               1.21.3-5+deb13u1                                    deb   CVE-2026-11850    Negligible  0.3% (18th)   < 0.1  
+libkrb5-3                  1.21.3-5+deb13u1                                    deb   CVE-2026-11850    Negligible  0.3% (18th)   < 0.1  
+libkrb5support0            1.21.3-5+deb13u1                                    deb   CVE-2026-11850    Negligible  0.3% (18th)   < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-11083    Negligible  0.3% (16th)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-11083    Negligible  0.3% (16th)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-11083    Negligible  0.3% (16th)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-11083    Negligible  0.3% (16th)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-11083    Negligible  0.3% (16th)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-11083    Negligible  0.3% (16th)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-11083    Negligible  0.3% (16th)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-11083    Negligible  0.3% (16th)   < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-11082    Negligible  0.3% (16th)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-11082    Negligible  0.3% (16th)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-11082    Negligible  0.3% (16th)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-11082    Negligible  0.3% (16th)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-11082    Negligible  0.3% (16th)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-11082    Negligible  0.3% (16th)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-11082    Negligible  0.3% (16th)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-11082    Negligible  0.3% (16th)   < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-8225     Negligible  0.3% (16th)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-8225     Negligible  0.3% (16th)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-8225     Negligible  0.3% (16th)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-8225     Negligible  0.3% (16th)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-8225     Negligible  0.3% (16th)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-8225     Negligible  0.3% (16th)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-8225     Negligible  0.3% (16th)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-8225     Negligible  0.3% (16th)   < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-69651    Negligible  0.2% (15th)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-69651    Negligible  0.2% (15th)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-69651    Negligible  0.2% (15th)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-69651    Negligible  0.2% (15th)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-69651    Negligible  0.2% (15th)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-69651    Negligible  0.2% (15th)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-69651    Negligible  0.2% (15th)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-69651    Negligible  0.2% (15th)   < 0.1  
+libpython3.13-minimal      3.13.5-2+deb13u5                                    deb   CVE-2026-3479     Negligible  0.2% (15th)   < 0.1  
+libpython3.13-stdlib       3.13.5-2+deb13u5                                    deb   CVE-2026-3479     Negligible  0.2% (15th)   < 0.1  
+python3.13                 3.13.5-2+deb13u5                                    deb   CVE-2026-3479     Negligible  0.2% (15th)   < 0.1  
+python3.13-minimal         3.13.5-2+deb13u5                                    deb   CVE-2026-3479     Negligible  0.2% (15th)   < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-66864    Negligible  0.2% (14th)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-66864    Negligible  0.2% (14th)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-66864    Negligible  0.2% (14th)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-66864    Negligible  0.2% (14th)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-66864    Negligible  0.2% (14th)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-66864    Negligible  0.2% (14th)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-66864    Negligible  0.2% (14th)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-66864    Negligible  0.2% (14th)   < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-11495    Negligible  0.2% (13th)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-11495    Negligible  0.2% (13th)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-11495    Negligible  0.2% (13th)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-11495    Negligible  0.2% (13th)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-11495    Negligible  0.2% (13th)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-11495    Negligible  0.2% (13th)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-11495    Negligible  0.2% (13th)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-11495    Negligible  0.2% (13th)   < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-11413    Negligible  0.2% (11th)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-11413    Negligible  0.2% (11th)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-11413    Negligible  0.2% (11th)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-11413    Negligible  0.2% (11th)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-11413    Negligible  0.2% (11th)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-11413    Negligible  0.2% (11th)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-11413    Negligible  0.2% (11th)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-11413    Negligible  0.2% (11th)   < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-11494    Negligible  0.2% (11th)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-11494    Negligible  0.2% (11th)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-11494    Negligible  0.2% (11th)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-11494    Negligible  0.2% (11th)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-11494    Negligible  0.2% (11th)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-11494    Negligible  0.2% (11th)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-11494    Negligible  0.2% (11th)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-11494    Negligible  0.2% (11th)   < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-11081    Negligible  0.2% (10th)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-11081    Negligible  0.2% (10th)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-11081    Negligible  0.2% (10th)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-11081    Negligible  0.2% (10th)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-11081    Negligible  0.2% (10th)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-11081    Negligible  0.2% (10th)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-11081    Negligible  0.2% (10th)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-11081    Negligible  0.2% (10th)   < 0.1  
+binutils                   2.44-3                                              deb   CVE-2026-90801    Negligible  0.2% (10th)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2026-90801    Negligible  0.2% (10th)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2026-90801    Negligible  0.2% (10th)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2026-90801    Negligible  0.2% (10th)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2026-90801    Negligible  0.2% (10th)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2026-90801    Negligible  0.2% (10th)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2026-90801    Negligible  0.2% (10th)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2026-90801    Negligible  0.2% (10th)   < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-7546     Negligible  0.2% (10th)   < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-7546     Negligible  0.2% (10th)   < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-7546     Negligible  0.2% (10th)   < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-7546     Negligible  0.2% (10th)   < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-7546     Negligible  0.2% (10th)   < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-7546     Negligible  0.2% (10th)   < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-7546     Negligible  0.2% (10th)   < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-7546     Negligible  0.2% (10th)   < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-11412    Negligible  0.2% (9th)    < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-11414    Negligible  0.2% (9th)    < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-11412    Negligible  0.2% (9th)    < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-11414    Negligible  0.2% (9th)    < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-11412    Negligible  0.2% (9th)    < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-11414    Negligible  0.2% (9th)    < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-11412    Negligible  0.2% (9th)    < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-11414    Negligible  0.2% (9th)    < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-11412    Negligible  0.2% (9th)    < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-11414    Negligible  0.2% (9th)    < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-11412    Negligible  0.2% (9th)    < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-11414    Negligible  0.2% (9th)    < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-11412    Negligible  0.2% (9th)    < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-11414    Negligible  0.2% (9th)    < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-11412    Negligible  0.2% (9th)    < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-11414    Negligible  0.2% (9th)    < 0.1  
+libgnutls30t64             3.8.9-3+deb13u4                                     deb   CVE-2026-95209    Negligible  0.2% (9th)    < 0.1  
+libgnutls30t64             3.8.9-3+deb13u4                                     deb   CVE-2026-88648    Negligible  0.2% (9th)    < 0.1  
+binutils                   2.44-3                                              deb   CVE-2026-90803    Negligible  0.2% (9th)    < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2026-90803    Negligible  0.2% (9th)    < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2026-90803    Negligible  0.2% (9th)    < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2026-90803    Negligible  0.2% (9th)    < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2026-90803    Negligible  0.2% (9th)    < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2026-90803    Negligible  0.2% (9th)    < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2026-90803    Negligible  0.2% (9th)    < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2026-90803    Negligible  0.2% (9th)    < 0.1  
+binutils                   2.44-3                                              deb   CVE-2026-3441     Negligible  0.2% (9th)    < 0.1  
+binutils                   2.44-3                                              deb   CVE-2026-3442     Negligible  0.2% (9th)    < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2026-3441     Negligible  0.2% (9th)    < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2026-3442     Negligible  0.2% (9th)    < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2026-3441     Negligible  0.2% (9th)    < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2026-3442     Negligible  0.2% (9th)    < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2026-3441     Negligible  0.2% (9th)    < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2026-3442     Negligible  0.2% (9th)    < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2026-3441     Negligible  0.2% (9th)    < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2026-3442     Negligible  0.2% (9th)    < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2026-3441     Negligible  0.2% (9th)    < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2026-3442     Negligible  0.2% (9th)    < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2026-3441     Negligible  0.2% (9th)    < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2026-3442     Negligible  0.2% (9th)    < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2026-3441     Negligible  0.2% (9th)    < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2026-3442     Negligible  0.2% (9th)    < 0.1  
+binutils                   2.44-3                                              deb   CVE-2026-90804    Negligible  0.2% (8th)    < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2026-90804    Negligible  0.2% (8th)    < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2026-90804    Negligible  0.2% (8th)    < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2026-90804    Negligible  0.2% (8th)    < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2026-90804    Negligible  0.2% (8th)    < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2026-90804    Negligible  0.2% (8th)    < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2026-90804    Negligible  0.2% (8th)    < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2026-90804    Negligible  0.2% (8th)    < 0.1  
+binutils                   2.44-3                                              deb   CVE-2026-6846     Negligible  0.2% (8th)    < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2026-6846     Negligible  0.2% (8th)    < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2026-6846     Negligible  0.2% (8th)    < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2026-6846     Negligible  0.2% (8th)    < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2026-6846     Negligible  0.2% (8th)    < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2026-6846     Negligible  0.2% (8th)    < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2026-6846     Negligible  0.2% (8th)    < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2026-6846     Negligible  0.2% (8th)    < 0.1  
+binutils                   2.44-3                                              deb   CVE-2026-90828    Negligible  0.2% (7th)    < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2026-90828    Negligible  0.2% (7th)    < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2026-90828    Negligible  0.2% (7th)    < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2026-90828    Negligible  0.2% (7th)    < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2026-90828    Negligible  0.2% (7th)    < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2026-90828    Negligible  0.2% (7th)    < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2026-90828    Negligible  0.2% (7th)    < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2026-90828    Negligible  0.2% (7th)    < 0.1  
+coreutils                  9.7-3                                               deb   CVE-2026-56392    Negligible  0.2% (7th)    < 0.1  
+binutils                   2.44-3                                              deb   CVE-2026-18220    Negligible  0.2% (7th)    < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2026-18220    Negligible  0.2% (7th)    < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2026-18220    Negligible  0.2% (7th)    < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2026-18220    Negligible  0.2% (7th)    < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2026-18220    Negligible  0.2% (7th)    < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2026-18220    Negligible  0.2% (7th)    < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2026-18220    Negligible  0.2% (7th)    < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2026-18220    Negligible  0.2% (7th)    < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-69652    Negligible  0.2% (7th)    < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-69652    Negligible  0.2% (7th)    < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-69652    Negligible  0.2% (7th)    < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-69652    Negligible  0.2% (7th)    < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-69652    Negligible  0.2% (7th)    < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-69652    Negligible  0.2% (7th)    < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-69652    Negligible  0.2% (7th)    < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-69652    Negligible  0.2% (7th)    < 0.1  
+binutils                   2.44-3                                              deb   CVE-2026-90802    Negligible  0.2% (7th)    < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2026-90802    Negligible  0.2% (7th)    < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2026-90802    Negligible  0.2% (7th)    < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2026-90802    Negligible  0.2% (7th)    < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2026-90802    Negligible  0.2% (7th)    < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2026-90802    Negligible  0.2% (7th)    < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2026-90802    Negligible  0.2% (7th)    < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2026-90802    Negligible  0.2% (7th)    < 0.1  
+curl                       8.14.1-2+deb13u7                                    deb   CVE-2026-87866    Negligible  0.2% (7th)    < 0.1  
+libcurl3t64-gnutls         8.14.1-2+deb13u7                                    deb   CVE-2026-87866    Negligible  0.2% (7th)    < 0.1  
+libcurl4t64                8.14.1-2+deb13u7                                    deb   CVE-2026-87866    Negligible  0.2% (7th)    < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-69648    Negligible  0.2% (7th)    < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-69648    Negligible  0.2% (7th)    < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-69648    Negligible  0.2% (7th)    < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-69648    Negligible  0.2% (7th)    < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-69648    Negligible  0.2% (7th)    < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-69648    Negligible  0.2% (7th)    < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-69648    Negligible  0.2% (7th)    < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-69648    Negligible  0.2% (7th)    < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-69645    Negligible  0.2% (6th)    < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-69645    Negligible  0.2% (6th)    < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-69645    Negligible  0.2% (6th)    < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-69645    Negligible  0.2% (6th)    < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-69645    Negligible  0.2% (6th)    < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-69645    Negligible  0.2% (6th)    < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-69645    Negligible  0.2% (6th)    < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-69645    Negligible  0.2% (6th)    < 0.1  
+binutils                   2.44-3                                              deb   CVE-2026-91781    Negligible  0.2% (6th)    < 0.1  
+binutils                   2.44-3                                              deb   CVE-2026-91782    Negligible  0.2% (6th)    < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2026-91781    Negligible  0.2% (6th)    < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2026-91782    Negligible  0.2% (6th)    < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2026-91781    Negligible  0.2% (6th)    < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2026-91782    Negligible  0.2% (6th)    < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2026-91781    Negligible  0.2% (6th)    < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2026-91782    Negligible  0.2% (6th)    < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2026-91781    Negligible  0.2% (6th)    < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2026-91782    Negligible  0.2% (6th)    < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2026-91781    Negligible  0.2% (6th)    < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2026-91782    Negligible  0.2% (6th)    < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2026-91781    Negligible  0.2% (6th)    < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2026-91782    Negligible  0.2% (6th)    < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2026-91781    Negligible  0.2% (6th)    < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2026-91782    Negligible  0.2% (6th)    < 0.1  
+binutils                   2.44-3                                              deb   CVE-2026-4647     Negligible  0.2% (6th)    < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2026-4647     Negligible  0.2% (6th)    < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2026-4647     Negligible  0.2% (6th)    < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2026-4647     Negligible  0.2% (6th)    < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2026-4647     Negligible  0.2% (6th)    < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2026-4647     Negligible  0.2% (6th)    < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2026-4647     Negligible  0.2% (6th)    < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2026-4647     Negligible  0.2% (6th)    < 0.1  
+binutils                   2.44-3                                              deb   CVE-2026-90829    Negligible  0.2% (6th)    < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2026-90829    Negligible  0.2% (6th)    < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2026-90829    Negligible  0.2% (6th)    < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2026-90829    Negligible  0.2% (6th)    < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2026-90829    Negligible  0.2% (6th)    < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2026-90829    Negligible  0.2% (6th)    < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2026-90829    Negligible  0.2% (6th)    < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2026-90829    Negligible  0.2% (6th)    < 0.1  
+coreutils                  9.7-3                                               deb   CVE-2026-56391    Negligible  0.2% (6th)    < 0.1  
+binutils                   2.44-3                                              deb   CVE-2026-91779    Negligible  0.2% (6th)    < 0.1  
+binutils                   2.44-3                                              deb   CVE-2026-91780    Negligible  0.2% (6th)    < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2026-91779    Negligible  0.2% (6th)    < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2026-91780    Negligible  0.2% (6th)    < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2026-91779    Negligible  0.2% (6th)    < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2026-91780    Negligible  0.2% (6th)    < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2026-91779    Negligible  0.2% (6th)    < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2026-91780    Negligible  0.2% (6th)    < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2026-91779    Negligible  0.2% (6th)    < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2026-91780    Negligible  0.2% (6th)    < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2026-91779    Negligible  0.2% (6th)    < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2026-91780    Negligible  0.2% (6th)    < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2026-91779    Negligible  0.2% (6th)    < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2026-91780    Negligible  0.2% (6th)    < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2026-91779    Negligible  0.2% (6th)    < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2026-91780    Negligible  0.2% (6th)    < 0.1  
+binutils                   2.44-3                                              deb   CVE-2026-90831    Negligible  0.2% (5th)    < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2026-90831    Negligible  0.2% (5th)    < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2026-90831    Negligible  0.2% (5th)    < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2026-90831    Negligible  0.2% (5th)    < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2026-90831    Negligible  0.2% (5th)    < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2026-90831    Negligible  0.2% (5th)    < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2026-90831    Negligible  0.2% (5th)    < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2026-90831    Negligible  0.2% (5th)    < 0.1  
+binutils                   2.44-3                                              deb   CVE-2026-19548    Negligible  0.2% (5th)    < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2026-19548    Negligible  0.2% (5th)    < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2026-19548    Negligible  0.2% (5th)    < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2026-19548    Negligible  0.2% (5th)    < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2026-19548    Negligible  0.2% (5th)    < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2026-19548    Negligible  0.2% (5th)    < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2026-19548    Negligible  0.2% (5th)    < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2026-19548    Negligible  0.2% (5th)    < 0.1  
+binutils                   2.44-3                                              deb   CVE-2026-90830    Negligible  0.2% (5th)    < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2026-90830    Negligible  0.2% (5th)    < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2026-90830    Negligible  0.2% (5th)    < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2026-90830    Negligible  0.2% (5th)    < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2026-90830    Negligible  0.2% (5th)    < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2026-90830    Negligible  0.2% (5th)    < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2026-90830    Negligible  0.2% (5th)    < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2026-90830    Negligible  0.2% (5th)    < 0.1  
+libgnutls30t64             3.8.9-3+deb13u4                                     deb   CVE-2026-95184    Negligible  0.2% (5th)    < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-69646    Negligible  0.2% (5th)    < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-69646    Negligible  0.2% (5th)    < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-69646    Negligible  0.2% (5th)    < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-69646    Negligible  0.2% (5th)    < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-69646    Negligible  0.2% (5th)    < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-69646    Negligible  0.2% (5th)    < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-69646    Negligible  0.2% (5th)    < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-69646    Negligible  0.2% (5th)    < 0.1  
+libgnutls30t64             3.8.9-3+deb13u4                                     deb   CVE-2026-88647    Negligible  0.2% (4th)    < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-69647    Negligible  0.2% (4th)    < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-69647    Negligible  0.2% (4th)    < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-69647    Negligible  0.2% (4th)    < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-69647    Negligible  0.2% (4th)    < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-69647    Negligible  0.2% (4th)    < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-69647    Negligible  0.2% (4th)    < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-69647    Negligible  0.2% (4th)    < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-69647    Negligible  0.2% (4th)    < 0.1  
+libldap2                   2.6.10+dfsg-1                                       deb   CVE-2026-22185    Negligible  0.2% (3rd)    < 0.1  
+libgnutls30t64             3.8.9-3+deb13u4                                     deb   CVE-2026-67693    Negligible  0.2% (3rd)    < 0.1  
+binutils                   2.44-3                                              deb   CVE-2026-15003    Negligible  0.2% (3rd)    < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2026-15003    Negligible  0.2% (3rd)    < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2026-15003    Negligible  0.2% (3rd)    < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2026-15003    Negligible  0.2% (3rd)    < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2026-15003    Negligible  0.2% (3rd)    < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2026-15003    Negligible  0.2% (3rd)    < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2026-15003    Negligible  0.2% (3rd)    < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2026-15003    Negligible  0.2% (3rd)    < 0.1  
+libpython3.13-minimal      3.13.5-2+deb13u5                                    deb   CVE-2026-12003    Negligible  0.1% (3rd)    < 0.1  
+libpython3.13-stdlib       3.13.5-2+deb13u5                                    deb   CVE-2026-12003    Negligible  0.1% (3rd)    < 0.1  
+python3.13                 3.13.5-2+deb13u5                                    deb   CVE-2026-12003    Negligible  0.1% (3rd)    < 0.1  
+python3.13-minimal         3.13.5-2+deb13u5                                    deb   CVE-2026-12003    Negligible  0.1% (3rd)    < 0.1  
+binutils                   2.44-3                                              deb   CVE-2026-6844     Negligible  0.1% (3rd)    < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2026-6844     Negligible  0.1% (3rd)    < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2026-6844     Negligible  0.1% (3rd)    < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2026-6844     Negligible  0.1% (3rd)    < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2026-6844     Negligible  0.1% (3rd)    < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2026-6844     Negligible  0.1% (3rd)    < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2026-6844     Negligible  0.1% (3rd)    < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2026-6844     Negligible  0.1% (3rd)    < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-66861    Negligible  0.1% (3rd)    < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-66861    Negligible  0.1% (3rd)    < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-66861    Negligible  0.1% (3rd)    < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-66861    Negligible  0.1% (3rd)    < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-66861    Negligible  0.1% (3rd)    < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-66861    Negligible  0.1% (3rd)    < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-66861    Negligible  0.1% (3rd)    < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-66861    Negligible  0.1% (3rd)    < 0.1  
+binutils                   2.44-3                                              deb   CVE-2026-6845     Negligible  0.1% (3rd)    < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2026-6845     Negligible  0.1% (3rd)    < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2026-6845     Negligible  0.1% (3rd)    < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2026-6845     Negligible  0.1% (3rd)    < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2026-6845     Negligible  0.1% (3rd)    < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2026-6845     Negligible  0.1% (3rd)    < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2026-6845     Negligible  0.1% (3rd)    < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2026-6845     Negligible  0.1% (3rd)    < 0.1  
+dash                       0.5.12-12                                           deb   CVE-2026-102474   Negligible  0.1% (3rd)    < 0.1  
+binutils                   2.44-3                                              deb   CVE-2025-69644    Negligible  0.1% (2nd)    < 0.1  
+binutils-common            2.44-3                                              deb   CVE-2025-69644    Negligible  0.1% (2nd)    < 0.1  
+binutils-x86-64-linux-gnu  2.44-3                                              deb   CVE-2025-69644    Negligible  0.1% (2nd)    < 0.1  
+libbinutils                2.44-3                                              deb   CVE-2025-69644    Negligible  0.1% (2nd)    < 0.1  
+libctf-nobfd0              2.44-3                                              deb   CVE-2025-69644    Negligible  0.1% (2nd)    < 0.1  
+libctf0                    2.44-3                                              deb   CVE-2025-69644    Negligible  0.1% (2nd)    < 0.1  
+libgprofng0                2.44-3                                              deb   CVE-2025-69644    Negligible  0.1% (2nd)    < 0.1  
+libsframe1                 2.44-3                                              deb   CVE-2025-69644    Negligible  0.1% (2nd)    < 0.1  
+dash                       0.5.12-12                                           deb   CVE-2026-102473   Negligible  0.1% (2nd)    < 0.1  
+libgnutls30t64             3.8.9-3+deb13u4                                     deb   CVE-2026-95210    Negligible  0.1% (1st)    < 0.1  
+curl                       8.14.1-2+deb13u7                                    deb   CVE-2025-14017    Negligible  0.1% (1st)    < 0.1  
+libcurl3t64-gnutls         8.14.1-2+deb13u7                                    deb   CVE-2025-14017    Negligible  0.1% (1st)    < 0.1  
+libcurl4t64                8.14.1-2+deb13u7                                    deb   CVE-2025-14017    Negligible  0.1% (1st)    < 0.1  
+openssh-client             1:10.0p1-7+deb13u4                                  deb   CVE-2026-106584   Negligible  < 0.1% (0th)  < 0.1  
+libpython3.13-minimal      3.13.5-2+deb13u5                                    deb   CVE-2026-115557   Negligible  N/A           N/A    
+libpython3.13-stdlib       3.13.5-2+deb13u5                                    deb   CVE-2026-115557   Negligible  N/A           N/A    
+python3.13                 3.13.5-2+deb13u5                                    deb   CVE-2026-115557   Negligible  N/A           N/A    
+python3.13-minimal         3.13.5-2+deb13u5                                    deb   CVE-2026-115557   Negligible  N/A           N/A
