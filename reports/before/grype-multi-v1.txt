@@ -1,0 +1,77 @@
+NAME                      INSTALLED                           FIXED IN                           TYPE       VULNERABILITY        SEVERITY  EPSS           RISK          
+stdlib                    go1.18.10                           *1.21.9, 1.22.2                    go-module  GO-2024-2687         High      92.0% (99th)   69.0          
+golang.org/x/net          v0.0.0-20210226172049-e18ecbb05110  0.17.0                             go-module  GHSA-qppj-fm5r-hxr3  Medium    100.0% (99th)  58.3   (kev)  
+golang.org/x/net          v0.0.0-20210226172049-e18ecbb05110  0.23.0                             go-module  GHSA-4v7x-pqxf-cx7m  Medium    92.0% (99th)   47.4          
+golang.org/x/net          v0.0.0-20210226172049-e18ecbb05110  0.7.0                              go-module  GHSA-vvpx-j8f3-3w6h  High      4.6% (91st)    3.4           
+stdlib                    go1.18.10                           *1.19.6, 1.20.1                    go-module  GO-2023-1571         High      4.6% (91st)    3.4           
+golang.org/x/net          v0.0.0-20210226172049-e18ecbb05110  0.4.0                              go-module  GHSA-xrjj-mj9h-534m  Medium    6.1% (93rd)    3.1           
+golang.org/x/net          v0.0.0-20210226172049-e18ecbb05110  0.0.0-20211209124913-491a49abca63  go-module  GO-2022-0288         High      4.0% (90th)    3.0           
+golang.org/x/net          v0.0.0-20210226172049-e18ecbb05110  0.17.0                             go-module  GHSA-4374-p667-p6c8  High      3.8% (89th)    2.8           
+stdlib                    go1.18.10                           *1.20.10, 1.21.3                   go-module  GO-2023-2102         High      3.8% (89th)    2.8           
+golang.org/x/net          v0.0.0-20210226172049-e18ecbb05110  0.0.0-20220906165146-f3363e06e74c  go-module  GHSA-69cg-p879-7622  High      3.3% (88th)    2.5           
+stdlib                    go1.18.10                           *1.19.8, 1.20.3                    go-module  GO-2023-1703         Critical  2.3% (83rd)    2.1           
+stdlib                    go1.18.10                           *1.20.11, 1.21.4                   go-module  GO-2023-2185         High      2.8% (86th)    2.1           
+golang.org/x/net          v0.0.0-20210226172049-e18ecbb05110  0.0.0-20210428140749-89ef3d95e781  go-module  GHSA-h86h-8ppg-mxmh  Medium    3.7% (89th)    2.0           
+stdlib                    go1.18.10                           *1.19.9, 1.20.4                    go-module  GO-2023-1752         Critical  1.6% (75th)    1.5           
+stdlib                    go1.18.10                           *1.19.8, 1.20.3                    go-module  GO-2023-1704         High      1.9% (79th)    1.4           
+stdlib                    go1.18.10                           *1.19.6, 1.20.1                    go-module  GO-2023-1568         High      1.7% (76th)    1.3           
+stdlib                    go1.18.10                           *1.19.8, 1.20.3                    go-module  GO-2023-1705         High      1.5% (73rd)    1.1           
+golang.org/x/text         v0.3.6                              0.3.7                              go-module  GHSA-ppp9-7jff-5vj2  High      1.4% (72nd)    1.1           
+stdlib                    go1.18.10                           1.20.0                             go-module  GO-2023-2375         High      1.2% (69th)    0.9           
+stdlib                    go1.18.10                           *1.24.13, 1.25.7, 1.26.0-rc.3      go-module  GO-2026-4337         Critical  0.9% (59th)    0.9           
+stdlib                    go1.18.10                           *1.19.6, 1.20.1                    go-module  GO-2023-1570         High      1.1% (65th)    0.8           
+stdlib                    go1.18.10                           *1.19.12, 1.20.7, 1.21.0-rc.4      go-module  GO-2023-1987         Medium    1.6% (75th)    0.8           
+stdlib                    go1.18.10                           *1.19.9, 1.20.4                    go-module  GO-2023-1751         High      1.0% (63rd)    0.8           
+stdlib                    go1.18.10                           *1.19.9, 1.20.4                    go-module  GO-2023-1753         High      1.0% (63rd)    0.8           
+stdlib                    go1.18.10                           *1.23.8, 1.24.2                    go-module  GO-2025-3563         Critical  0.8% (57th)    0.7           
+stdlib                    go1.18.10                           *1.21.8, 1.22.1                    go-module  GO-2024-2599         Medium    1.2% (67th)    0.7           
+stdlib                    go1.18.10                           *1.20.12, 1.21.5                   go-module  GO-2023-2382         Medium    1.2% (68th)    0.6           
+stdlib                    go1.18.10                           *1.25.8, 1.26.1                    go-module  GO-2026-4601         High      0.8% (55th)    0.6           
+golang.org/x/net          v0.0.0-20210226172049-e18ecbb05110  0.55.0                             go-module  GO-2026-5026         High      0.7% (52nd)    0.5           
+golang.org/x/net          v0.0.0-20210226172049-e18ecbb05110  0.60.0                             go-module  GO-2026-6612         Critical  0.6% (46th)    0.5           
+stdlib                    go1.18.10                           1.26.9                             go-module  GO-2026-6612         Critical  0.6% (46th)    0.5           
+stdlib                    go1.18.10                           *1.20.8, 1.21.1                    go-module  GO-2023-2041         Medium    0.9% (60th)    0.5           
+stdlib                    go1.18.10                           *1.20.8, 1.21.1                    go-module  GO-2023-2043         Medium    0.9% (59th)    0.5           
+stdlib                    go1.18.10                           *1.24.8, 1.25.2                    go-module  GO-2025-4009         High      0.7% (51st)    0.5           
+github.com/gin-gonic/gin  v1.8.1                              1.9.0                              go-module  GHSA-3vp4-m3rf-835h  Medium    0.9% (59th)    0.5           
+stdlib                    go1.18.10                           *1.25.9, 1.26.2                    go-module  GO-2026-4870         High      0.6% (49th)    0.5           
+stdlib                    go1.18.10                           *1.25.10, 1.26.3                   go-module  GO-2026-4971         High      0.6% (49th)    0.5           
+stdlib                    go1.18.10                           *1.25.9, 1.26.2                    go-module  GO-2026-4947         High      0.6% (48th)    0.5           
+stdlib                    go1.18.10                           *1.25.11, 1.26.4                   go-module  GO-2026-5037         High      0.6% (47th)    0.4           
+golang.org/x/net          v0.0.0-20210226172049-e18ecbb05110  0.60.0                             go-module  GO-2026-6603         High      0.6% (46th)    0.4           
+stdlib                    go1.18.10                           1.26.9                             go-module  GO-2026-6603         High      0.6% (46th)    0.4           
+stdlib                    go1.18.10                           *1.25.13, 1.26.6, 1.27.0-rc.3      go-module  GO-2026-5972         High      0.6% (46th)    0.4           
+stdlib                    go1.18.10                           *1.25.13, 1.26.6, 1.27.0-rc.3      go-module  GO-2026-6089         High      0.6% (46th)    0.4           
+stdlib                    go1.18.10                           *1.25.13, 1.26.6, 1.27.0-rc.3      go-module  GO-2026-6090         High      0.6% (46th)    0.4           
+golang.org/x/net          v0.0.0-20210226172049-e18ecbb05110  0.60.0                             go-module  GO-2026-6611         High      0.6% (46th)    0.4           
+stdlib                    go1.18.10                           1.26.9                             go-module  GO-2026-6611         High      0.6% (46th)    0.4           
+stdlib                    go1.18.10                           *1.21.8, 1.22.1                    go-module  GO-2024-2610         Medium    0.8% (56th)    0.4           
+stdlib                    go1.18.10                           *1.21.8, 1.22.1                    go-module  GO-2024-2598         Medium    0.7% (51st)    0.4           
+golang.org/x/text         v0.3.6                              0.39.0                             go-module  GO-2026-5970         High      0.5% (40th)    0.4           
+stdlib                    go1.18.10                           *1.24.11, 1.25.5                   go-module  GO-2025-4155         High      0.5% (38th)    0.3           
+stdlib                    go1.18.10                           *1.19.10, 1.20.5                   go-module  GO-2023-1840         High      0.4% (36th)    0.3           
+golang.org/x/net          v0.0.0-20210226172049-e18ecbb05110  0.60.0                             go-module  GO-2026-6617         High      0.4% (35th)    0.3           
+stdlib                    go1.18.10                           1.26.9                             go-module  GO-2026-6617         High      0.4% (35th)    0.3           
+stdlib                    go1.18.10                           *1.24.9, 1.25.3                    go-module  GO-2025-4007         High      0.4% (33rd)    0.3           
+stdlib                    go1.18.10                           *1.26.9, 1.27.2                    go-module  GO-2026-6608         High      0.4% (33rd)    0.3           
+stdlib                    go1.18.10                           *1.26.9, 1.27.2                    go-module  GO-2026-6607         High      0.4% (32nd)    0.3           
+stdlib                    go1.18.10                           *1.22.11, 1.23.5, 1.24.0-rc.2      go-module  GO-2025-3373         Medium    0.5% (43rd)    0.3           
+stdlib                    go1.18.10                           *1.24.8, 1.25.2                    go-module  GO-2025-4011         Medium    0.6% (45th)    0.3           
+stdlib                    go1.18.10                           *1.24.8, 1.25.2                    go-module  GO-2025-4013         High      0.4% (30th)    0.3           
+stdlib                    go1.18.10                           *1.25.9, 1.26.2                    go-module  GO-2026-4946         High      0.4% (28th)    0.3           
+stdlib                    go1.18.10                           *1.24.8, 1.25.2                    go-module  GO-2025-4008         Medium    0.5% (39th)    0.2           
+stdlib                    go1.18.10                           *1.24.8, 1.25.2                    go-module  GO-2025-4010         Medium    0.5% (39th)    0.2           
+stdlib                    go1.18.10                           *1.26.9, 1.27.2                    go-module  GO-2026-6613         High      0.3% (23rd)    0.2           
+stdlib                    go1.18.10                           *1.25.11, 1.26.4                   go-module  GO-2026-5039         Medium    0.4% (34th)    0.2           
+golang.org/x/net          v0.0.0-20210226172049-e18ecbb05110  0.36.0                             go-module  GHSA-qxp5-gwg8-xv66  Medium    0.4% (35th)    0.2           
+stdlib                    go1.18.10                           *1.23.7, 1.24.1                    go-module  GO-2025-3503         Medium    0.4% (35th)    0.2           
+stdlib                    go1.18.10                           *1.25.12, 1.26.5, 1.27.0-rc.2      go-module  GO-2026-5856         Medium    0.4% (31st)    0.2           
+stdlib                    go1.18.10                           *1.25.8, 1.26.1                    go-module  GO-2026-4603         Medium    0.4% (27th)    0.2           
+stdlib                    go1.18.10                           *1.25.13, 1.26.6, 1.27.0-rc.3      go-module  GO-2026-6091         Medium    0.3% (22nd)    0.2           
+stdlib                    go1.18.10                           *1.23.10, 1.24.4                   go-module  GO-2025-3750         Medium    0.3% (24th)    0.2           
+stdlib                    go1.18.10                           *1.24.12, 1.25.6                   go-module  GO-2026-4340         Medium    0.3% (24th)    0.2           
+stdlib                    go1.18.10                           *1.24.11, 1.25.5                   go-module  GO-2025-4175         Medium    0.3% (19th)    0.2           
+stdlib                    go1.18.10                           *1.25.9, 1.26.2                    go-module  GO-2026-4865         Medium    0.3% (20th)    0.2           
+stdlib                    go1.18.10                           *1.26.9, 1.27.2                    go-module  GO-2026-6600         Medium    0.2% (9th)     0.1           
+stdlib                    go1.18.10                           *1.26.10, 1.27.3                   go-module  GO-2026-6809         Unknown   0.1% (3rd)     < 0.1         
+stdlib                    go1.18.10                           *1.25.8, 1.26.1                    go-module  GO-2026-4602         Low       0.1% (1st)     < 0.1
